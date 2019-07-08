@@ -15,7 +15,7 @@
                         <Triggers>
                           <Trigger Enabled="true" Source="Log" Name="Head Crusher" Id="fff6cb89-7880-4c7e-acc9-80c8bad6e2a8" RegularExpression="Philia readies Head Crusher." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions>
-                              <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="Buster" UseTTSVolumeExpression="100" UseTTSRateExpression="2" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming">
+                              <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="Buster" UseTTSVolumeExpression="100" UseTTSRateExpression="2" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys">
                                 <Condition Enabled="false" Grouping="Or" />
                               </Action>
                             </Actions>
@@ -23,7 +23,7 @@
                           </Trigger>
                           <Trigger Enabled="true" Source="Log" Name="Into the Light" Id="2fb3eff3-d7c1-4c70-809a-c8abbe1e1214" RegularExpression="Philia readies Into the Light." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions>
-                              <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="Stack" UseTTSVolumeExpression="100" UseTTSRateExpression="2" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming">
+                              <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="Stack" UseTTSVolumeExpression="100" UseTTSRateExpression="2" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys">
                                 <Condition Enabled="false" Grouping="Or" />
                               </Action>
                             </Actions>
@@ -31,7 +31,7 @@
                           </Trigger>
                           <Trigger Enabled="true" Source="Log" Name="Left Knout" Id="41d86b97-4bc7-455e-a5df-f9f68711bdfe" RegularExpression="Philia readies Left Knout." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions>
-                              <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="Move Right" UseTTSVolumeExpression="100" UseTTSRateExpression="0" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming">
+                              <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="Move Right" UseTTSVolumeExpression="100" UseTTSRateExpression="0" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys">
                                 <Condition Enabled="false" Grouping="Or" />
                               </Action>
                             </Actions>
@@ -39,7 +39,7 @@
                           </Trigger>
                           <Trigger Enabled="true" Source="Log" Name="Right Knout" Id="8042ec95-5fad-4aba-88f6-e9ca83b920a4" RegularExpression="Philia readies Right Knout." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions>
-                              <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="Move Left" UseTTSVolumeExpression="100" UseTTSRateExpression="0" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming">
+                              <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="Move Left" UseTTSVolumeExpression="100" UseTTSRateExpression="0" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys">
                                 <Condition Enabled="false" Grouping="Or" />
                               </Action>
                             </Actions>
@@ -47,7 +47,7 @@
                           </Trigger>
                           <Trigger Enabled="true" Source="Log" Name="Pendulum" Id="8941f549-30c0-430a-975c-cf031539f2c5" RegularExpression="Philia readies Pendulum." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions>
-                              <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="Spread" UseTTSVolumeExpression="100" UseTTSRateExpression="2" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming">
+                              <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="Spread" UseTTSVolumeExpression="100" UseTTSRateExpression="2" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys">
                                 <Condition Enabled="false" Grouping="Or" />
                               </Action>
                             </Actions>
@@ -55,7 +55,7 @@
                           </Trigger>
                           <Trigger Enabled="true" Source="Log" Name="Scavenger's Daughter" Id="1f6dcc3a-fcf9-4682-ac51-b799711a3f01" RegularExpression="Philia readies Scavenger's Daughter." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions>
-                              <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundFileExpression="A O E" PlaySoundVolumeExpression="100" UseTTSTextExpression="AOE" UseTTSVolumeExpression="100" UseTTSRateExpression="4" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming">
+                              <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundFileExpression="A O E" PlaySoundVolumeExpression="100" UseTTSTextExpression="AOE" UseTTSVolumeExpression="100" UseTTSRateExpression="4" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys">
                                 <Condition Enabled="false" Grouping="Or" />
                               </Action>
                             </Actions>
@@ -84,7 +84,7 @@
                         <Triggers>
                           <Trigger Enabled="true" Source="Log" Name="The Tickler" Id="df2f8f55-d0cf-4486-bdbe-f8e8a2eef17f" RegularExpression="Tesleen, the Forgiven readies The Tickler." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions>
-                              <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="Buster" UseTTSVolumeExpression="100" UseTTSRateExpression="2" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming">
+                              <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="Buster" UseTTSVolumeExpression="100" UseTTSRateExpression="2" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys">
                                 <Condition Enabled="false" Grouping="Or" />
                               </Action>
                             </Actions>
@@ -92,7 +92,7 @@
                           </Trigger>
                           <Trigger Enabled="true" Source="Log" Name="Scold's Bridle" Id="2be7c284-772f-4fde-a9f8-6bc90edc3be9" RegularExpression="Tesleen, the Forgiven readies Scold's Bridle." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions>
-                              <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="AOE" UseTTSVolumeExpression="100" UseTTSRateExpression="2" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming">
+                              <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="AOE" UseTTSVolumeExpression="100" UseTTSRateExpression="2" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys">
                                 <Condition Enabled="false" Grouping="Or" />
                               </Action>
                             </Actions>
@@ -104,7 +104,7 @@
                           </Trigger>
                           <Trigger Enabled="true" Source="Log" Name="Exorcise" Id="c36bfa14-97e1-4905-878c-ab6c1b1b3a25" RegularExpression="Tesleen, the Forgiven readies Exorcise." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions>
-                              <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="Stack" UseTTSVolumeExpression="100" UseTTSRateExpression="2" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming">
+                              <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="Stack" UseTTSVolumeExpression="100" UseTTSRateExpression="2" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys">
                                 <Condition Enabled="false" Grouping="Or" />
                               </Action>
                             </Actions>
@@ -117,7 +117,7 @@
                         <Triggers>
                           <Trigger Enabled="true" Source="Log" Name="The Path of Light" Id="f5135cb9-f256-49c5-94fc-f07de75e5b4b" RegularExpression="The forgiven dissonance readies The Path of Light." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions>
-                              <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="AOE" UseTTSVolumeExpression="100" UseTTSRateExpression="2" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming">
+                              <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="AOE" UseTTSVolumeExpression="100" UseTTSRateExpression="2" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys">
                                 <Condition Enabled="false" Grouping="Or" />
                               </Action>
                             </Actions>
@@ -145,7 +145,7 @@
                           </Trigger>
                           <Trigger Enabled="true" Source="Log" Name="Pillory" Id="08b306ea-b194-4f03-a10a-4e7cf2e5d270" RegularExpression="The forgiven dissonance readies Pillory." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions>
-                              <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="Buster" UseTTSVolumeExpression="100" UseTTSRateExpression="2" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming">
+                              <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="Buster" UseTTSVolumeExpression="100" UseTTSRateExpression="2" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys">
                                 <Condition Enabled="false" Grouping="Or" />
                               </Action>
                             </Actions>
@@ -171,7 +171,7 @@
                         <Triggers>
                           <Trigger Enabled="true" Source="Log" Name="Toad Choir" Id="be0b79c8-c4bc-4a05-9bb3-3590bd1b8dc7" RegularExpression="Aenc Thon, Lord of the Lengthsome Gait readies Toad Choir." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions>
-                              <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="Move Behind" UseTTSVolumeExpression="100" UseTTSRateExpression="2" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming">
+                              <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="Move Behind" UseTTSVolumeExpression="100" UseTTSRateExpression="2" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys">
                                 <Condition Enabled="false" Grouping="Or" />
                               </Action>
                             </Actions>
@@ -179,7 +179,7 @@
                           </Trigger>
                           <Trigger Enabled="true" Source="Log" Name="Crippling Blow" Id="a53c8ce5-cf0f-4389-9cf0-35431e6d6317" RegularExpression="Aenc Thon, Lord of the Lengthsome Gait readies Crippling Blow." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions>
-                              <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="Buster" UseTTSVolumeExpression="100" UseTTSRateExpression="2" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming">
+                              <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="Buster" UseTTSVolumeExpression="100" UseTTSRateExpression="2" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys">
                                 <Condition Enabled="false" Grouping="Or" />
                               </Action>
                             </Actions>
@@ -187,7 +187,7 @@
                           </Trigger>
                           <Trigger Enabled="true" Source="Log" Name="Virtuosic Capriccio" Id="74a584ea-8676-4a52-9577-47dcb67cdae2" RegularExpression="Aenc Thon, Lord of the Lengthsome Gait readies Virtuosic Capriccio." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions>
-                              <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="AOE" UseTTSVolumeExpression="100" UseTTSRateExpression="2" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming">
+                              <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="AOE" UseTTSVolumeExpression="100" UseTTSRateExpression="2" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys">
                                 <Condition Enabled="false" Grouping="Or" />
                               </Action>
                             </Actions>
@@ -195,7 +195,7 @@
                           </Trigger>
                           <Trigger Enabled="true" Source="Log" Name="Imp Choir" Id="c3c237ae-8b86-4aef-bbc5-6940f77790da" RegularExpression="Aenc Thon, Lord of the Lengthsome Gait readies Imp Choir." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions>
-                              <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="Look Away" UseTTSVolumeExpression="100" UseTTSRateExpression="2" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming">
+                              <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="Look Away" UseTTSVolumeExpression="100" UseTTSRateExpression="2" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys">
                                 <Condition Enabled="false" Grouping="Or" />
                               </Action>
                             </Actions>
@@ -207,7 +207,7 @@
                           </Trigger>
                           <Trigger Enabled="true" Source="Log" Name="Flailing Tentacles" Id="0dad0429-b113-46fc-98f5-6af88dd8f925" RegularExpression="The shade of fear readies Flailing Tentacles." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions>
-                              <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundFileExpression="Avoid Tentacles" PlaySoundVolumeExpression="100" UseTTSTextExpression="Avoid Tentacles" UseTTSVolumeExpression="100" UseTTSRateExpression="2" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming">
+                              <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundFileExpression="Avoid Tentacles" PlaySoundVolumeExpression="100" UseTTSTextExpression="Avoid Tentacles" UseTTSVolumeExpression="100" UseTTSRateExpression="2" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys">
                                 <Condition Enabled="false" Grouping="Or" />
                               </Action>
                             </Actions>
@@ -225,7 +225,7 @@
                         <Triggers>
                           <Trigger Enabled="true" Source="Log" Name="Stonefist" Id="49db4d2c-6792-4f81-b890-8eaca3379873" RegularExpression="Lozatl readies Stonefist." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions>
-                              <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="Buster" UseTTSVolumeExpression="100" UseTTSRateExpression="2" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming">
+                              <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="Buster" UseTTSVolumeExpression="100" UseTTSRateExpression="2" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys">
                                 <Condition Enabled="false" Grouping="Or" />
                               </Action>
                             </Actions>
@@ -250,7 +250,7 @@
                         <Triggers>
                           <Trigger Enabled="false" Source="Log" Name="Ripper Fang (WIP)" Id="28030b0f-3596-4bbb-867d-7e91180d47f3" RegularExpression="Batsquatch readies Ripper Fang." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions>
-                              <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="Buster" UseTTSVolumeExpression="100" UseTTSRateExpression="2" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming">
+                              <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="Buster" UseTTSVolumeExpression="100" UseTTSRateExpression="2" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys">
                                 <Condition Enabled="false" Grouping="Or" />
                               </Action>
                             </Actions>
@@ -258,7 +258,7 @@
                           </Trigger>
                           <Trigger Enabled="false" Source="Log" Name="Soundwave (WIP)" Id="368eeeca-dda3-4984-ba34-8356aa8b5de3" RegularExpression="Batsquatch readies Soundwave." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions>
-                              <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="AOE" UseTTSVolumeExpression="100" UseTTSRateExpression="2" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming">
+                              <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="AOE" UseTTSVolumeExpression="100" UseTTSRateExpression="2" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys">
                                 <Condition Enabled="false" Grouping="Or" />
                               </Action>
                             </Actions>
@@ -275,7 +275,7 @@
                         <Triggers>
                           <Trigger Enabled="true" Source="Log" Name="Rend" Id="6ea44cba-77fe-4be7-9b76-07be670dedcb" RegularExpression="Eros readies Rend." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions>
-                              <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="Buster" UseTTSVolumeExpression="100" UseTTSRateExpression="2" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming">
+                              <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="Buster" UseTTSVolumeExpression="100" UseTTSRateExpression="2" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys">
                                 <Condition Enabled="false" Grouping="Or" />
                               </Action>
                             </Actions>
@@ -283,7 +283,7 @@
                           </Trigger>
                           <Trigger Enabled="true" Source="Log" Name="Glossolaia" Id="76b06d82-8167-4efe-ade0-331987004c9c" RegularExpression="Eros readies Glossolalia." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions>
-                              <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="AOE" UseTTSVolumeExpression="100" UseTTSRateExpression="2" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming">
+                              <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="AOE" UseTTSVolumeExpression="100" UseTTSRateExpression="2" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys">
                                 <Condition Enabled="false" Grouping="Or" />
                               </Action>
                             </Actions>
@@ -295,7 +295,7 @@
                           </Trigger>
                           <Trigger Enabled="true" Source="Log" Name="Heaving Breath" Id="5155afa3-6a89-4e01-88e3-bc9ff3efbf58" RegularExpression="Eros readies Heaving Breath." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions>
-                              <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="Avoid Poison" UseTTSVolumeExpression="100" UseTTSRateExpression="0" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming">
+                              <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="Avoid Poison" UseTTSVolumeExpression="100" UseTTSRateExpression="0" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys">
                                 <Condition Enabled="false" Grouping="Or" />
                               </Action>
                             </Actions>
@@ -303,7 +303,7 @@
                           </Trigger>
                           <Trigger Enabled="true" Source="Log" Name="Confession of Fate" Id="140a842f-f2e1-460d-9350-f2196bc5f705" RegularExpression="Eros readies Confession of Faith." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions>
-                              <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="Stack" UseTTSVolumeExpression="100" UseTTSRateExpression="2" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming">
+                              <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="Stack" UseTTSVolumeExpression="100" UseTTSRateExpression="2" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys">
                                 <Condition Enabled="false" Grouping="Or" />
                               </Action>
                             </Actions>
@@ -337,7 +337,7 @@
                         <Triggers>
                           <Trigger Enabled="true" Source="Log" Name="Intestinal Crank" Id="36fe47bb-2513-44f9-a807-8a1ee2646287" RegularExpression="Storge begins casting Intestinal Crank." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions>
-                              <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="AOE" UseTTSVolumeExpression="100" UseTTSRateExpression="2" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming">
+                              <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="AOE" UseTTSVolumeExpression="100" UseTTSRateExpression="2" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys">
                                 <Condition Enabled="false" Grouping="Or" />
                               </Action>
                             </Actions>
@@ -345,7 +345,7 @@
                           </Trigger>
                           <Trigger Enabled="true" Source="Log" Name="Heretic's Fork" Id="5dc6e3bf-8c57-4b51-9619-c04b0a143ca3" RegularExpression="Storge begins casting Heretic's Fork." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions>
-                              <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="Avoid Cross" UseTTSVolumeExpression="100" UseTTSRateExpression="2" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming">
+                              <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="Avoid Cross" UseTTSVolumeExpression="100" UseTTSRateExpression="2" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys">
                                 <Condition Enabled="false" Grouping="Or" />
                               </Action>
                             </Actions>
@@ -353,7 +353,7 @@
                           </Trigger>
                           <Trigger Enabled="true" Source="Log" Name="Breaking Wheel" Id="01aa5100-bc6d-4ba1-8da9-40b227fc9707" RegularExpression="Storge begins casting Breaking Wheel." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions>
-                              <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="Get Under" UseTTSVolumeExpression="100" UseTTSRateExpression="0" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming">
+                              <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="Get Under" UseTTSVolumeExpression="100" UseTTSRateExpression="0" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys">
                                 <Condition Enabled="false" Grouping="Or" />
                               </Action>
                             </Actions>
@@ -373,7 +373,20 @@
                     <Triggers />
                   </Folder>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="true" EventFilterEnabled="false" Id="5ff80505-649e-4b91-99ff-4b13290bbfde" ZoneFilterRegularExpression="Mt.\ Gulg" Name="Lv.79 Mt. Gulg" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="ebfa1b9f-e3df-47f8-9c0a-51f7aa698677" Name="1. Forgiven Cruelty" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="172c2ebb-2ea1-48af-a751-f027916e9ead" Name="2. Forgiven Whimsy" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="3f0b7bd3-407f-4265-8f08-8193f2ade323" Name="3. Consort of Sin: Forgiven Obscenity" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                 </Folders>
@@ -382,23 +395,88 @@
               <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="f2fdcdad-7219-4d4f-b945-03f2ee66581c" Name="4.0 Stormblood" Enabled="true">
                 <Folders>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="true" EventFilterEnabled="false" Id="85302356-c572-4699-a177-3ebabff003f7" ZoneFilterRegularExpression="The\ Sirensong\ Sea" Name="Lv.61 The Sirensong Sea" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="28a19b8b-03cf-44db-be0c-d80bdd02cead" Name="1. Lugat" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="3d5fd8d3-de9e-4f03-8656-6c5c3595d845" Name="2. The Governor" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="0e6f0137-63f8-438d-a39e-4751899f6d01" Name="3. Lorelei" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="da7b1006-9f5f-4447-a684-eee3f3b57749" Name="Lv.63 Shisui of the Violet Tides" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="4c7c40a9-92a9-46dd-96a0-cce9d27b60e3" Name="1. Amikiri" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="60d753cd-df64-4c97-b9ac-eb7530259dff" Name="2. Ruby Princess" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="dc8ec01b-f892-4fb1-a90f-02236da0dd7e" Name="3. Shisui Yohi" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="7a72a651-f1d4-4475-a462-1702ab320be4" Name="Lv.65 Bardam's Mettle" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="080d815b-e1bf-40cd-9ff5-dec73c69c3d7" Name="1. Galura" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="4feae3a7-24d3-47fb-ae18-b0acef154f40" Name="2. Bardam" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="b08d201f-35a8-42c0-ac4d-3fd193152b99" Name="3. Yol" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="44082226-8b80-410e-9026-2137c03c0ce2" Name="Lv.67 Doma Castle" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="ec20c73c-eaec-4fb1-a3ce-6c06d2b74880" Name="1. Magitek Rearguard" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="ef92c6a5-1f92-4dd5-a5d6-d9a3b52afb26" Name="2. Magitek Hexadrone" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="c5c26595-e18a-4544-b3b2-819769ebb65f" Name="3. Hypertuned Grynewaht" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="0983adbf-8b80-4ce1-baec-b13e10b4f058" Name="Lv.69 Castrum Abania" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="78f6d4ed-95dd-4e8b-b3f2-7627d3127896" Name="1. Magna Roader" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="ede106e2-9273-40bc-8aea-14389e1216df" Name="2. Number XXIV" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="3782b677-91e0-46d0-90ea-d6cd7b958393" Name="3. Inferno" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                 </Folders>
@@ -407,23 +485,88 @@
               <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="2fd05fb3-4bfc-4082-959a-e53562f584ea" Name="3.0 Heavensward" Enabled="true">
                 <Folders>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="076bff1f-865e-40db-ac78-f6be00b40a09" Name="Lv.51 The Dusk Vigil" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="f61322c6-e876-432b-ae89-163da3b49f95" Name="1. Towering Oliphaunt" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="bd31606b-c781-47c8-a638-b1e7c8eeabd7" Name="2. Ser Yuhelmeric" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="c2818d87-5761-44e0-912c-6da09123df7b" Name="3. Opinicus" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="a7c5a821-58dd-40df-8513-5576246fc50b" Name="Lv.53 Sohm Al" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="7c9511d2-cfc7-4969-9d5e-da35396b73b9" Name="1. Raskovnik" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="52ed96ba-fb26-4eb8-bbe0-b15c85684eaf" Name="2. Myath" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="5c444567-b549-4876-8997-d552b1514b0b" Name="3. Tioman" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="3869d64b-3bef-4c6b-8e42-0a8f7d229036" Name="Lv.55 The Aery" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="35098ba8-31b6-447e-b48b-e9d87c0a77bf" Name="1. Rangda" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="30121b77-b73d-4c3a-9be3-06b14c911ec0" Name="2. Gyascutus" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="bfcc4aad-b1f8-4e2c-a914-690d5b0da637" Name="3. Nidhogg" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="125dab18-f960-458d-a44c-9103c4c843e7" Name="Lv.57 The Vault" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="63d2fe70-4599-4246-8579-4d23ced67dbb" Name="1. Ser Adelphel Brightblade" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="bae1ae8e-d823-47a8-95b4-428953bc2f87" Name="2. Ser Grinnaux The Bull" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="2b84d55d-99ab-4339-bc80-012381a5d2b7" Name="3. Ser Charibert" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="9fbb29b5-4482-4f1e-ae4b-d763d4c60ee5" Name="Lv.59 The Great Gubal Library" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="4da48303-707d-4159-83b5-8a2052c2cb23" Name="1. Demon Tome" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="f8603ff4-dbb9-463a-ae81-2526ebc0412b" Name="2. Byblos" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="fbcdd038-0bf6-4a28-9940-31c26d2f78bc" Name="3. The Everliving Bibliotaph" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                 </Folders>
@@ -431,52 +574,223 @@
               </Folder>
               <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="2db0425a-9f8f-427a-9b67-246aba29f047" Name="2.0 A Realm Reborn" Enabled="true">
                 <Folders>
-                  <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="7d0ce9da-e8c7-48dc-8443-1957f6bc133e" Name="Lv.16 Sohm Al (Hard)" Enabled="true">
-                    <Folders />
-                    <Triggers />
-                  </Folder>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="593b6c21-0496-4171-bf71-3e3d107de32d" Name="Lv.16 The Tam-Tara Deepcroft" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="3ae52b14-2f20-4bc2-8da4-7802b1a71b87" Name="1. Void Soulcounter" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="17100292-0110-4bb9-b01c-80a58cf3a274" Name="2. Galvanth the Dominator" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="48da54de-9541-4b21-930b-a8e51286eea3" Name="Lv.17 Copperbell Mines" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="fbc2fd5c-2ded-4d8a-9536-a725d4073aa3" Name="1. Kottos the Gigas" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="605ab8fd-240e-494b-9915-cba3454e4cbc" Name="2. Ichorous Ire" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="f23c9462-3079-422e-81ba-a6653323165b" Name="3. Gyges the Great" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="afcaf431-9253-43cb-9348-928e643ac169" Name="Lv.20 Halatali" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="e9478533-85e8-4b7d-a1fb-c11421843ac8" Name="1. Firemane" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="70d002c8-7bc5-4b41-a9b7-0b85c3abfd85" Name="2. Thunderclap Guivre" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="b72a8e41-56b9-4487-a952-816a0482d6a9" Name="3. Pit Peiste" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="8487dcdb-0476-450d-b805-c10212bfc3e4" Name="4. Tangata" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="3ed0b984-3746-49a1-805e-8bddcd563ed8" Name="Lv.24 The Thousand Maws of Toto-Rak" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="3a81d058-0d7a-485e-be88-063102d68f99" Name="1. Coeurl O’Nine Tails" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="b9fb505e-34ce-499d-8c2d-f6cfc8e12636" Name="2. Graffias" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="34fd1dbd-7f35-4a27-b263-64b09ed81537" Name="Lv.28 Haukke Manor" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="a8769a52-034f-4e00-9526-993390e7f824" Name="1. Manor Claviger" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="1593927a-4424-4817-a0b2-7e5497635ebe" Name="2. Manor Jester and Manor Steward" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="75bce1d9-53d2-4f38-b60a-37ef0af43866" Name="3. Lady Amandine" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="227a309d-e881-42d5-bc5c-86135d5e4dce" Name="Lv.32 Brayflox's Longstop" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="71e6c543-5bbb-41d8-a739-1b13b18c24f1" Name="1. Great Yellow Pelican" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="e4069a11-7e03-4c67-b952-8dec74c697d0" Name="2. Inferno Drake" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="61e31aef-4808-4e64-83eb-b9d315461479" Name="3. Hellbender" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="7f747276-d4aa-4d4a-a743-707cd4107923" Name="4. Deep Jungle Coeurl" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="f2e761d9-2364-466c-8328-498eb9d406c5" Name="5. Aiatar" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="06ec4872-3517-400e-855d-b1665d99d62f" Name="Lv.35 The Sunken Temple of Qarn" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="f215abe0-25bb-4355-80ab-787f6db5c992" Name="1. Teratotaur" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="4610c9d7-1808-4bf5-9684-e27970dbc32c" Name="2. Temple Guardian" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="8a96fe1e-1000-4456-a8ce-45b0be465051" Name="3. Adjudicator" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="bea3c884-b31a-4ce5-86f8-87ed2b79cb6f" Name="Lv.38 Cutter's Cry" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="95b49076-d452-47d1-a9ca-eca75690d641" Name="1. Myrmidon Princess" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="d8143559-5ca4-4a69-9987-f842e1522ce6" Name="2. Giant Tunnel Worm" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="d6c84c19-ea99-4ff9-ad8b-f88e9b9fe2ce" Name="3. Chimera" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="c22ab9a0-f78f-4c55-adc2-d3ab9b152656" Name="Lv.41 The Stone Vigil" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="e90bb33c-c192-4492-b66d-633a674d7bc1" Name="1. Chudo-Yudo" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="f0cf74e6-1e42-4a76-8dca-972d30050034" Name="2. Koshchei" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="dbd50270-99d7-4cec-a0ad-77f2a6f29d37" Name="3. Isgebind" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="d21b1de3-528a-45dd-928d-8d4b0eedb52b" Name="Lv.44 Dzemael Darkhold" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="2b677c94-cd89-41ba-a79d-eb094e87ff3e" Name="1. All-seeing Eye" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="f731a150-534b-4ec0-acca-e1845c5f854c" Name="2. Taulurd" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="3963c0ad-6661-4ca2-b644-a0930b0a8f87" Name="3. Batraal" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="afdfac9b-d6eb-479c-bbd2-5a6fccc433da" Name="Lv.47 The Aurum Vale" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="5d97e2ce-7d88-4681-a01e-3e80b5b147fa" Name="1. Locksmith" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="dc4f458a-0110-491e-8943-4db5f61d5c8e" Name="2. Coincounter" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="55cd4a8d-72ca-4d66-8462-d4663ab38231" Name="3. Miser's Mistress" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
+                    <Triggers />
+                  </Folder>
+                  <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="true" EventFilterEnabled="false" Id="dd3a3d55-fdf1-4cd3-aa37-8bc28781df59" ZoneFilterRegularExpression="Sastasha" Name="Lv.15 Sastasha" Enabled="true">
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="0197f57b-fb3b-47f6-b09b-6d4438d74d39" Name="3. Denn the Orcatoothed" Enabled="true">
+                        <Folders />
+                        <Triggers>
+                          <Trigger Enabled="false" Source="Log" Name="The Sultana's Lap will be sealed off in 15 seconds! (WIP)" Id="010edad9-dcee-400a-829c-b816fb6ebd6f" RegularExpression="The Sultana's Lap will be sealed off in 15 seconds!" DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                            <Actions />
+                            <Condition Enabled="false" Grouping="Or" />
+                            <Conditions />
+                          </Trigger>
+                          <Trigger Enabled="false" Source="Log" Name="Hydroball (WIP)" Id="364cd2b5-727f-45e8-b302-4635cfd846cd" RegularExpression="Denn the Orcatoothed readies Hydroball." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                            <Actions />
+                            <Condition Enabled="false" Grouping="Or" />
+                            <Conditions />
+                          </Trigger>
+                        </Triggers>
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="52db4fa4-d2d0-4b54-a294-6c206a34cc2f" Name="1. Chopper" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="00ca6ffe-e625-44e8-ab85-9b4d59d957b2" Name="2. Captain Madison" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                 </Folders>
@@ -490,71 +804,296 @@
               <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="2db0425a-9f8f-427a-9b67-246aba29f047" Name="2.0 A Realm Reborn" Enabled="true">
                 <Folders>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="1a8e5ad5-434a-48ce-8b86-7b5d2fc6f724" Name="Lv.50 The Wanderer's Palace" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="614d167c-6d75-4f06-850b-1a23129b3619" Name="1. Keeper of Halidom" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="5704f6c5-ab41-4b4f-8bfc-03397dcb4446" Name="2. Giant Bavarois" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="a8b5b7d8-f44f-4723-9944-720eaf949ead" Name="3. Tonberry King" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="d477a81c-e014-4edf-8802-4a9dd467be29" Name="Lv.50 Amdapor Keep" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="4789f952-ce46-472e-9b7a-302b8cd31253" Name="1. Psycheflayer" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="22b633ac-5006-4f8c-a13e-0f7fb5602f42" Name="2. Demon Wall" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="419fc588-66f3-41bd-bfaa-e363467caaff" Name="3. Anantaboga" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="53b3d1f0-1ff1-4d82-98ef-76d52da9f984" Name="Lv.50 Pharos Sirius" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="754ee7bc-57ea-4ffb-83d2-fbad3ce7f17a" Name="1. Symond the Unsinkable" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="eaf26524-9619-4b2d-a49f-9ba3d21628c4" Name="2. Zu" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="8d6d437b-5e4f-478f-b555-59ae0e981729" Name="3. Tyrant" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="44909502-313a-456e-b8da-af88def75a74" Name="4. Siren" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="59fd9fc3-c352-4956-a0b1-9ec30800df53" Name="Lv.50 Copperbell Mines (Hard)" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="6b2018dc-bfbb-44d0-9ca4-da4d82accdeb" Name="1. Hecatoncheir Mastermind" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="47e78923-531e-4905-88d5-82a92a257828" Name="2. Gogmagolem" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="0c2cc4b0-9473-4fb9-a88e-2f0f3c22883e" Name="3. Ouranos" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="8eed1ecf-a09d-41be-8e9e-854af018a062" Name="Lv.50 Haukke Manor (Hard)" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="ab470c68-d35d-4c05-bb5c-d64bd0da9991" Name="1. Manor Jester" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="32750e56-dc49-476f-b350-354eb6eaf492" Name="2. Ash" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="f3fd63db-adb2-4747-a7de-091a4fc82b99" Name="3. Halicarnassus" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="165e68d9-0b47-4a2b-a4e0-7fd8adf73f28" Name="Lv.50 The Lost City of Amdapor" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="9bb16e78-ac0f-4e24-843b-bda28ea706bd" Name="1. Decaying Gourmand" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="bc318796-f479-4ea6-b90f-085ab8de4afb" Name="2. Arioch" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="00c7a284-e3ce-4b73-b6cf-260c222c6cd2" Name="3. Diabolos" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="c54f8391-8f2b-45fd-a3db-85f13eb20bd6" Name="Lv.50 Halatali (Hard)" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="37f4c851-b3c4-4131-8d8f-011b0ecd00b7" Name="1. Pyracmon" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="f79b7579-7f7a-4fe5-a298-c2d766a0c0be" Name="2. Catoblepas" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="2b1fa019-0981-40a9-ba7d-47039ef772fc" Name="3. Mumuepo the Beholden" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="c48d5832-e3ec-474b-ac3c-e49e1e8ab3eb" Name="Lv.50 Brayflox's Longstop (Hard)" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="a57c0df6-718f-4590-90b5-90cba05072ab" Name="1. Illuminati Commander" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="c431e760-010a-4607-b3e5-2ecd8d5e0a2c" Name="2. Magitek vangob G-III" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="905c9da8-377e-44a7-afed-6c0e7d689bc7" Name="3. Gobmachine G-VI" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="a73cdb80-97f2-4518-bcbe-f913d7ed4567" Name="Lv.50 Hullbreaker Isle" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="768903ed-593f-4d94-9c2c-6ff74d675a3f" Name="1. Sasquatch" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="98b83c6d-3653-4ba8-bdfe-18028056a121" Name="2. Sjoorm" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="03dbfd68-d9d6-4a52-bb39-b5e8409aabf5" Name="3. Kraken" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="d845b93e-76da-4f47-b052-9ad547cd35fd" Name="Lv.50 The Stone Vigil (Hard)" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="0b149535-cf3a-44e4-87e8-53c8bdfd5ea3" Name="1. Gorynich" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="8a557122-e126-4dc2-838e-b7cfeb373732" Name="2. Cuca Fera" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="8c05a88b-874f-4a1c-a358-d140b537cdd2" Name="3. Giruveganaus" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="b6832cda-9427-4cb6-a44d-f5746bff4574" Name="Lv.50 The Tam-Tara Deepcroft (Hard)" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="f819fedc-1e73-472a-8adb-07f777b3700e" Name="1. Liavinne" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="9cc12c3c-d0e9-446b-a27a-4d6c28003013" Name="2. Spare Body" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="096e357c-cc41-4fcb-8eb0-801c49f16918" Name="3. Avere Bravearm" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="1f62fc63-93ea-4e2e-9382-956604fec8bd" Name="Lv.50 Snowcloak" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="8e579c12-7580-4aac-830e-1711b1f08111" Name="1. Wandil" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="c6ed55c9-ff2e-4c01-891d-1539728b07f4" Name="2. Yeti" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="410063a1-30a7-433d-8eea-4e3206a72932" Name="3. Fenrir" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="51419c52-f063-4048-8f8a-8d22c2b6c159" Name="Lv.50 Sastasha (Hard)" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="91eda914-33f1-4f70-b810-455d67ee3257" Name="1. Karlabos" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="ae903aff-25ca-4f78-a39f-f84a096ee140" Name="2. Captain Madison" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="bdb97456-3a1a-40b1-9e26-4d3f284c1119" Name="3. Kraken" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="f8de7e10-06b4-4813-a6a2-9222b7640838" Name="Lv.50 The Sunken Temple of Qarn (Hard)" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="49e2395f-e448-4303-838f-f67cd7e90474" Name="1. Damaged Adjudicator" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="36a979ee-d858-43cb-a1f8-66673549b25e" Name="2. Sabotender Emperatriz" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="c829fc50-3b24-442d-be06-830de9c75552" Name="3. Vicegerent To The Warden" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="7b21cf24-19aa-4873-a254-eef775b17f99" Name="Lv.50 The Keeper of the Lake" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="91e17c50-8114-4971-8554-2754d43694f8" Name="1. Einhander" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="57389f3b-983d-4acb-86f4-b7846419fc65" Name="2. Magitek Gunship" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="b1a845d4-18fd-466f-a804-d7ef75649cc2" Name="3. Midgardsormr" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="a606f2ad-bc56-4420-a19d-ffb58e327a03" Name="Lv.50 The Wanderer's Palace (Hard)" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="42a45911-6a03-4dea-b13b-5a058f455dab" Name="1. Frumious Koheel Ja" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="5c772c80-c391-4619-bbec-539ddc2678ef" Name="2. Slithy Zolool Ja" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="fd4d3553-2046-4cc7-86ff-16c52f6fdb6d" Name="3. Manxome Molaa Ja Ja" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="ffc38bcc-fad7-45a6-bd11-836e46aeb4a3" Name="Lv.50 Amdapor Keep (Hard)" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="6df66957-66f4-404d-995a-316853f20a81" Name="1. Anchag" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="fdfc349b-59b0-4c66-a1d6-d380b4a66279" Name="2. Boogyman" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="7de805bc-faac-4cec-abd8-453adc5e123c" Name="3. Ferdiad" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                 </Folders>
@@ -563,55 +1102,228 @@
               <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="2fd05fb3-4bfc-4082-959a-e53562f584ea" Name="3.0 Heavensward" Enabled="true">
                 <Folders>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="6b69061e-f569-4e25-8aba-b813f3b7c6de" Name="Lv.60 The Aetherochemical Research Facility" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="0f8517df-dfb6-4416-8b38-b68d51140870" Name="1. Regula Van Hydrus" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="5c78aa12-ae68-483d-a266-c9d838052076" Name="2. Harmachis" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="8bb88e88-f41d-43db-989b-70e740982fe6" Name="3. Lahabrea &amp; Igeyorhm" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="27f154c3-d653-47ff-8063-e13b35fa482c" Name="4. Ascian Prime" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="422bd153-80bb-41b1-8603-77080ecacfe4" Name="Lv.60 Neverreap" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="69eb3add-85dc-4eb8-b864-1e6027d598f6" Name="1. Nunyenunc" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="cdc62147-3ce7-47f9-a4e7-1daa26aa00e6" Name="2. Canu Vanu" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="00f17cb9-d04b-4428-ba09-ea1828f45357" Name="3. Waukkeon" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="bc664ecc-47b9-4792-9e57-d4520b4cfc7a" Name="Lv.60 The Fractal Continuum" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="82772e8d-21c1-4eea-b206-08de76a3cfc7" Name="1. Phantom Ray" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="e5ccb61e-c430-4883-a5a1-079e66050daf" Name="2. Minotaur" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="e04d2785-2298-4ef2-9f5a-e91023f3dc32" Name="3. The Curator" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="dbb26bd2-ec54-4ac6-be2d-fb46f3357c77" Name="Lv.60 Saint Mocianne's Arboretum" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="f74e7c64-84a7-41b2-9ceb-b64df65263ed" Name="1. Rose Garden" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="19cc26f6-3ca8-4045-8f74-9ef6ceb14dba" Name="2. Queen Hawk" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="dcfcc3aa-0077-4173-864d-f2194ba55167" Name="3. Belladonna" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="730a2708-5db4-462a-9cda-7c3504f8ff2f" Name="Lv.60 Pharos Sirius (Hard)" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="5c6732ea-9fa0-4265-8778-666518f18ff6" Name="1. Ghrah Luminary" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="9c745785-84ec-44f2-ba9e-c35814903d0b" Name="2. 8th Order Patriarch Be Gu" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="4d4e1826-74b4-4c2c-bf72-ee75e3bae667" Name="3. Progenitrix and Progenitor" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="04319efd-04f0-4599-8ac6-9708471a3030" Name="Lv.60 The Antitower" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="e4d0acb1-3d98-406f-8b84-6992cdf71617" Name="1. Zuro Roggo" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="d98c0436-af96-42cd-b80c-d2d65bd0cb14" Name="2. Ziggy" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="4662c7f7-2d6f-4a8e-b3b4-0c4759fbce97" Name="3. Calcabrina" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="4b7f15ba-cbaa-4d5c-8825-1aedfaf39c03" Name="Lv.60 The Lost City of Amdapor (Hard)" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="696790cc-ca51-47f2-9471-39d00019062f" Name="1. Achamoth" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="6c5af0e2-3807-4a96-b6e8-e201152727c9" Name="2. Winged Lion" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="553e375e-da76-4685-b99c-771dc31f0f5f" Name="3. Kuribu" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="e53a7a8f-3fe9-47ac-9dd8-4b711cebef97" Name="Lv.60 Sohr Khai" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="94dada55-47a1-4a0f-9a54-3b38ba3ddb8f" Name="1. Chieftain Moglin" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="85ffea45-fa54-4c59-bf8e-ea142bc19a7e" Name="2. Poqhiraj" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="52bf1125-47c7-4578-abb6-5614154c19f2" Name="3. Hraesvelgr" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="9ed19f4e-7ac7-4ee5-af81-dca8bb6b97d9" Name="Lv.60 Hullbreaker Isle (Hard)" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="e09de3aa-8108-4380-bf9c-8138207609f5" Name="1. Battle Coeurl, Sanguine Sirens Gunner, Sanguine Sirens Lodeswoman, Sanguine Sirens Targirl" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="d9cce8cc-8f44-47b2-b8a9-ca85c99dfc79" Name="2. Ymir" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="36e5041e-1856-4cc9-83ee-9224c7edada1" Name="3. Grand Storm Marshal Slafyrsyn" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="e5890cb5-26fb-4d9b-aa21-3fe0fd9c9fb2" Name="Lv.60 Xelphatol" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="58a9deb6-9ed9-4f03-80fe-92711242f921" Name="1. Nuzal Hueloc" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="11c99a93-1cc1-4b22-8c40-b923f4c54521" Name="2. Dotoli Ciloc" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="a391a798-a2e5-465e-890e-891f84e1321a" Name="3. Tozol Huatotl" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="ed9e2ecf-5459-4263-9c70-86b72f56ddb8" Name="Lv.60 The Great Gubal Library (Hard)" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="520ff4ba-3408-41b5-9a89-49c48b43e883" Name="1. Demon Of The Tome" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="d5f2aad6-eec5-48bd-9ba5-d394e0433cfd" Name="2. Liquid Flame" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="8b240a10-083b-4e60-954a-4fb2eae550e6" Name="3. Strix" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="272d3c82-5dfb-46d2-bae9-9dd51712fdd7" Name="Lv.60 Baelsar's Wall" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="f6c41833-649e-426f-ac93-0c0186e7bb32" Name="1. Magitek Predator" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="12a3fd54-fd45-4724-a94c-8c68c7244786" Name="2. Armored Weapon" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="4b86c8c8-cd16-43d4-9173-8bc36b0a3032" Name="3. The Griffin" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="5ad42954-337d-4c90-9c76-f69a9b38bcb7" Name="Lv.60 Sohm Al (Hard)" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="20155791-d923-4244-81f0-f3157481dfa0" Name="1. The Leightonward" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="22c18abe-df2e-4f28-b511-e90a6eab24be" Name="2. Gowrow" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="f8377dd9-d5d4-4687-8ca5-b219134af068" Name="3. Lava Scorpion" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                 </Folders>
@@ -620,43 +1332,173 @@
               <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="f2fdcdad-7219-4d4f-b945-03f2ee66581c" Name="4.0 Stormblood" Enabled="true">
                 <Folders>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="c47492e5-469d-45d6-93ee-de0ed5c2603e" Name="Lv.70 Ala Mhigo" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="b8864fb9-23e6-47bf-ba75-2182702c5155" Name="1. Magitek Scorpion" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="689a356d-05e6-4db4-8da4-094cbb02e429" Name="2. Aulus Mal Asina" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="49bb80a2-d1a3-42a6-bd96-73d281f266ea" Name="3. Zenos Yae Galvus" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="9e265d74-48b7-4459-85d2-57112447216f" Name="Lv.70 Kugane Castle" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="9e5b296d-aa94-4523-9bd5-6f9722b91395" Name="1. Zuiko-maru" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="324dc571-5bf2-44cf-baef-e26c09b690bb" Name="2. Dojun-maru" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="8f2e16c1-6554-4153-8e13-1596c23f9ee2" Name="3. Yojimbo" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="ab9fb1c2-b244-4eca-aa0f-fda868168684" Name="Lv.70 The Temple of the Fist" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="b6f33ef3-0f15-4195-b88e-491239a709bd" Name="1. Coeurl Smriti" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="f48da44c-7314-4b9f-a5f8-3f665d06c3e5" Name="2. Arbuda" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="f125eab0-1f4c-4ac2-8544-c9b9f6adb181" Name="3. Ivon Coeurlfist" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="95bc3745-f5d6-4b7e-aeff-ef00886afa9f" Name="Lv.70 The Drowned City of Skalla" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="a0e8cf18-a8b2-4839-bbcc-be4948e25618" Name="1. Kelpie" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="0c8d35a2-a323-473f-95f9-0bc14d4fbf24" Name="2. The Old One" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="f1d7a266-dc13-4acc-b12b-36a8b55f9a25" Name="3. Hrodric Poisontongue" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="2640fa0a-896e-45e2-90a4-2f7bc5b72c87" Name="Lv.70 Hells' Lid" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="a90d2e67-8519-4f06-b30e-93784fd72e3d" Name="1. Otake-maru" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="7fef4b06-1cd2-4abf-90a2-5b45922d88d8" Name="2. Kamaitachi" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="47007768-4bd3-4dc0-9d07-7aa4b88b7b8b" Name="3. Genbu" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="3dc0d762-a6b6-4c86-81e5-f25d577362cf" Name="Lv.70 The Fractal Continuum (Hard)" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="be4750b8-e156-4e13-ab32-07f795f42c89" Name="1. Motherbit" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="9d85dc5b-bdbd-41b1-ae71-7ba2dc02f53d" Name="2. The Ultima Warrior" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="977f6feb-2b57-411d-8aa2-969573b62d24" Name="3. The Ultima Beast" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="749d490e-148b-43b4-b186-44b9c2663d2e" Name="Lv.70 The Swallow's Compass" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="5703404b-13f7-46c5-b8f0-073b899e6065" Name="1. Otengu" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="3282f7e0-bcb1-479c-8a4a-d7a5c30d57bf" Name="2. Daidarabotchi" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="65ec5edf-d8af-4b83-b66f-d47a2b8d6930" Name="3. Qitian Dasheng" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="506fac15-59e4-426c-af22-6b829c0553a1" Name="Lv.70 Saint Mocianne's Arboretum (Hard)" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="ade2201a-ebba-4caa-af3b-f2d12ae5c562" Name="1. Nullchu" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="e7f6c29b-ab58-4820-b509-46d0e7c00c93" Name="2. Lakhamu" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="598e08de-6681-42d4-af9f-6b8ab312c558" Name="3. Tokkapchi" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="a8a2483c-6dca-4dc0-ba81-8c8b5449c145" Name="Lv.70 The Burn" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="062e9f95-f82a-49da-9023-f7e9efc239cb" Name="1. Hedetet" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="ad9e83ea-2164-4822-ae63-4ea27bf17544" Name="2. Defective Drone" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="d0dd7249-5cef-4e08-b18f-962369f12dc5" Name="3. Mist Dragon" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="2b95a7d3-ceb5-4933-b285-83d59d705917" Name="Lv.70 The Ghimlyt Dark" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="6f9d118c-1629-4f92-9ae7-b0888bdc41da" Name="1. Mark III-B Magitek Colossus" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="43858adf-45d7-4a50-90f9-aad642252f98" Name="2. Prometheus" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="26683d42-703b-4991-93a0-288ff4c04887" Name="3. Annia Quo Soranus and Julia Quo Soranus" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                 </Folders>
@@ -670,11 +1512,49 @@
               <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="2db0425a-9f8f-427a-9b67-246aba29f047" Name="2.0 A Realm Reborn" Enabled="true">
                 <Folders>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="ac03981e-3c62-40aa-953b-3801f28d7985" Name="Lv.50 Castrum Meridianum" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="92a6f129-b88f-4e66-8d50-874054be645e" Name="1. The Black Eft" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="7dd84f74-74e4-46ec-967f-bfe5a3b28a85" Name="2. Magitek Vanguard F-I" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="702daf2f-5dfe-48dd-aafa-42ba3cdbd02c" Name="3. Magitek Colossus Rubricatus" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="4f9ad75f-722f-4c68-aa9a-ecf79d5a4ec0" Name="4. Livia sas Junius" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="3b06ca50-9549-4732-a59f-3672f8e8cc55" Name="Lv.50 The Praetorium" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="251acc2f-ad2d-4891-acb6-5b6c3633aae9" Name="1. Mark II Magitek Colossus" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="ba97016c-0bf5-45c9-adcc-558e150ac60e" Name="2. Nero tol Scaeva" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="7fa890ce-59bb-44e0-bf15-4b433c7e461b" Name="3. Gaius van Baelsar" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="140e59fb-1856-4d07-be73-b32d3676aa39" Name="4. Ultima Weapon" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="44e5880e-1e01-4dc9-9acd-98f9a5ff6eaf" Name="5. Lahabrea" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                 </Folders>
@@ -688,15 +1568,54 @@
               <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="cc0306d7-39fd-4062-b135-0c4d532666b2" Name="5.0 Shadowbringers" Enabled="true">
                 <Folders>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="true" EventFilterEnabled="false" Id="38b56d0e-e873-4e88-8a61-c9277269274a" ZoneFilterRegularExpression="Akadaemia\ Anyder" Name="Lv.80 Akadaemia Anyder" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="a91f611d-c4d5-43aa-937a-37c7ae9280a8" Name="1. Cladoselache &amp; Doliodus" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="3e264727-72cb-4485-a623-7c7e36dec5b5" Name="2. Marquis Morbol" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="17c183c3-bc74-4b49-807a-056968459c29" Name="3. Quetzalcoatl" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="true" EventFilterEnabled="false" Id="78e045a9-296d-43e6-9087-a532ad20969a" ZoneFilterRegularExpression="Amaurot" Name="Lv.80 Amaurot" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="47e9b808-d2a2-4294-9883-12e5a9002318" Name="1. The First Beast" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="4bc5387c-e09a-433a-8e5f-afa878f0c97d" Name="2. Terminus Bellwether" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="4b5d7aea-9414-407e-8c95-ac394a6eb7c9" Name="3. Therion" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="76748f70-6b2e-4be3-9496-7b4e174699b6" Name="Lv.80 The Twinning" Enabled="true">
-                    <Folders />
+                    <Folders>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="ec767010-20d0-40be-914d-9bef44509334" Name="1. Alpha Zaghnai" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="6b138199-fccc-4165-802b-596b788cb663" Name="2. Mithridates" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="ccf142b8-6dc7-4eaf-9649-5dbb5ecf92e8" Name="3. The Tycoon" Enabled="true">
+                        <Folders />
+                        <Triggers />
+                      </Folder>
+                    </Folders>
                     <Triggers />
                   </Folder>
                 </Folders>
