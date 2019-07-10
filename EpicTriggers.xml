@@ -773,12 +773,10 @@
                           <Trigger Enabled="false" Source="Log" Name="The Sultana's Lap will be sealed off in 15 seconds! (WIP)" Id="010edad9-dcee-400a-829c-b816fb6ebd6f" RegularExpression="The Sultana's Lap will be sealed off in 15 seconds!" DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions />
                             <Condition Enabled="false" Grouping="Or" />
-                            <Conditions />
                           </Trigger>
                           <Trigger Enabled="false" Source="Log" Name="Hydroball (WIP)" Id="364cd2b5-727f-45e8-b302-4635cfd846cd" RegularExpression="Denn the Orcatoothed readies Hydroball." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions />
                             <Condition Enabled="false" Grouping="Or" />
-                            <Conditions />
                           </Trigger>
                         </Triggers>
                       </Folder>
