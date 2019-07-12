@@ -13,7 +13,7 @@
                       <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="3c45ee57-e5f5-42e5-be3d-0106ab6cf233" Name="3. Philia" Enabled="true">
                         <Folders />
                         <Triggers>
-                          <Trigger Enabled="true" Source="Log" Name="Head Crusher" Id="fff6cb89-7880-4c7e-acc9-80c8bad6e2a8" RegularExpression="Philia readies Head Crusher." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                          <Trigger Enabled="true" Source="Log" Name="Head Crusher" Id="f4a5ba8e-ea15-4007-b51b-a4f7a9741d12" RegularExpression="Philia readies Head Crusher." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions>
                               <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="Buster" UseTTSVolumeExpression="100" UseTTSRateExpression="2" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys">
                                 <Condition Enabled="false" Grouping="Or" />
@@ -21,7 +21,7 @@
                             </Actions>
                             <Condition Enabled="false" Grouping="Or" />
                           </Trigger>
-                          <Trigger Enabled="true" Source="Log" Name="Into the Light" Id="2fb3eff3-d7c1-4c70-809a-c8abbe1e1214" RegularExpression="Philia readies Into the Light." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                          <Trigger Enabled="true" Source="Log" Name="Into the Light" Id="4befb878-fb00-42cb-a947-4092d447330d" RegularExpression="Philia readies Into the Light." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions>
                               <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="Stack" UseTTSVolumeExpression="100" UseTTSRateExpression="2" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys">
                                 <Condition Enabled="false" Grouping="Or" />
@@ -29,7 +29,7 @@
                             </Actions>
                             <Condition Enabled="false" Grouping="Or" />
                           </Trigger>
-                          <Trigger Enabled="true" Source="Log" Name="Left Knout" Id="41d86b97-4bc7-455e-a5df-f9f68711bdfe" RegularExpression="Philia readies Left Knout." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                          <Trigger Enabled="true" Source="Log" Name="Left Knout" Id="29fd4ae0-6c36-4b26-a226-50bbaa16be44" RegularExpression="Philia readies Left Knout." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions>
                               <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="Move Right" UseTTSVolumeExpression="100" UseTTSRateExpression="0" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys">
                                 <Condition Enabled="false" Grouping="Or" />
@@ -37,7 +37,7 @@
                             </Actions>
                             <Condition Enabled="false" Grouping="Or" />
                           </Trigger>
-                          <Trigger Enabled="true" Source="Log" Name="Right Knout" Id="8042ec95-5fad-4aba-88f6-e9ca83b920a4" RegularExpression="Philia readies Right Knout." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                          <Trigger Enabled="true" Source="Log" Name="Right Knout" Id="2209415c-dda2-43e1-83d4-b156557a29a2" RegularExpression="Philia readies Right Knout." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions>
                               <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="Move Left" UseTTSVolumeExpression="100" UseTTSRateExpression="0" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys">
                                 <Condition Enabled="false" Grouping="Or" />
@@ -45,7 +45,7 @@
                             </Actions>
                             <Condition Enabled="false" Grouping="Or" />
                           </Trigger>
-                          <Trigger Enabled="true" Source="Log" Name="Pendulum" Id="8941f549-30c0-430a-975c-cf031539f2c5" RegularExpression="Philia readies Pendulum." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                          <Trigger Enabled="true" Source="Log" Name="Pendulum" Id="8832a704-52fd-4295-b9e7-eb48ece74a4a" RegularExpression="Philia readies Pendulum." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions>
                               <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="Spread" UseTTSVolumeExpression="100" UseTTSRateExpression="2" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys">
                                 <Condition Enabled="false" Grouping="Or" />
@@ -53,7 +53,7 @@
                             </Actions>
                             <Condition Enabled="false" Grouping="Or" />
                           </Trigger>
-                          <Trigger Enabled="true" Source="Log" Name="Scavenger's Daughter" Id="1f6dcc3a-fcf9-4682-ac51-b799711a3f01" RegularExpression="Philia readies Scavenger's Daughter." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                          <Trigger Enabled="true" Source="Log" Name="Scavenger's Daughter" Id="f5e1081d-e043-4236-b354-f84a7081c5e2" RegularExpression="Philia readies Scavenger's Daughter." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions>
                               <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundFileExpression="A O E" PlaySoundVolumeExpression="100" UseTTSTextExpression="AOE" UseTTSVolumeExpression="100" UseTTSRateExpression="4" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys">
                                 <Condition Enabled="false" Grouping="Or" />
@@ -61,19 +61,19 @@
                             </Actions>
                             <Condition Enabled="false" Grouping="Or" />
                           </Trigger>
-                          <Trigger Enabled="false" Source="Log" Name="Taphephobia (WIP)" Id="3955a6aa-2e0c-4ebc-956e-7e7f78a32f6e" RegularExpression="Philia readies Taphephobia." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                          <Trigger Enabled="false" Source="Log" Name="Taphephobia (WIP)" Id="71095bf8-3b6d-43aa-8c6b-e48339c6249d" RegularExpression="Philia readies Taphephobia." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions />
                             <Condition Enabled="false" Grouping="Or" />
                           </Trigger>
-                          <Trigger Enabled="false" Source="Log" Name="Aethersup (WIP)" Id="f04371fa-e514-400a-8cf0-35f8f2025ef7" RegularExpression="Philia readies Aethersup." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                          <Trigger Enabled="false" Source="Log" Name="Aethersup (WIP)" Id="6a82b57e-cf3e-4e45-9ccc-10fe8f47691f" RegularExpression="Philia readies Aethersup." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions />
                             <Condition Enabled="false" Grouping="Or" />
                           </Trigger>
-                          <Trigger Enabled="false" Source="Log" Name="Chain Down (WIP)" Id="0b0f1860-36a3-437e-bf01-a1a5999d4c29" RegularExpression="Philia readies Chain Down." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                          <Trigger Enabled="false" Source="Log" Name="Chain Down (WIP)" Id="1c1c58f4-d3d0-4346-8190-23f6810b5020" RegularExpression="Philia readies Chain Down." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions />
                             <Condition Enabled="false" Grouping="Or" />
                           </Trigger>
-                          <Trigger Enabled="false" Source="Log" Name="Fierce Beating (WIP)" Id="50283240-58ce-4fb6-ab1b-18d30107d331" RegularExpression="Philia readies Fierce Beating." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                          <Trigger Enabled="false" Source="Log" Name="Fierce Beating (WIP)" Id="9f175101-040f-4f41-9710-1ce9a94bc21e" RegularExpression="Philia readies Fierce Beating." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions />
                             <Condition Enabled="false" Grouping="Or" />
                           </Trigger>
@@ -82,7 +82,7 @@
                       <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="a8ecbc39-fed6-4f50-9e0e-72d6ab1736ca" Name="2. Tesleen, the Forgiven" Enabled="true">
                         <Folders />
                         <Triggers>
-                          <Trigger Enabled="true" Source="Log" Name="The Tickler" Id="df2f8f55-d0cf-4486-bdbe-f8e8a2eef17f" RegularExpression="Tesleen, the Forgiven readies The Tickler." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                          <Trigger Enabled="true" Source="Log" Name="The Tickler" Id="4bc61db4-0433-4eea-a31b-7066b782ae54" RegularExpression="Tesleen, the Forgiven readies The Tickler." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions>
                               <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="Buster" UseTTSVolumeExpression="100" UseTTSRateExpression="2" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys">
                                 <Condition Enabled="false" Grouping="Or" />
@@ -90,7 +90,7 @@
                             </Actions>
                             <Condition Enabled="false" Grouping="Or" />
                           </Trigger>
-                          <Trigger Enabled="true" Source="Log" Name="Scold's Bridle" Id="2be7c284-772f-4fde-a9f8-6bc90edc3be9" RegularExpression="Tesleen, the Forgiven readies Scold's Bridle." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                          <Trigger Enabled="true" Source="Log" Name="Scold's Bridle" Id="eff54d95-9fcd-4f1e-be75-dd3daeae402e" RegularExpression="Tesleen, the Forgiven readies Scold's Bridle." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions>
                               <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="AOE" UseTTSVolumeExpression="100" UseTTSRateExpression="2" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys">
                                 <Condition Enabled="false" Grouping="Or" />
@@ -98,11 +98,11 @@
                             </Actions>
                             <Condition Enabled="false" Grouping="Or" />
                           </Trigger>
-                          <Trigger Enabled="false" Source="Log" Name="Fevered Flagellation (WIP)" Id="47cabb25-d2c3-4b8c-bfde-27ee68254ad3" RegularExpression="Tesleen, the Forgiven readies Fevered Flagellation." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                          <Trigger Enabled="false" Source="Log" Name="Fevered Flagellation (WIP)" Id="6af4428d-0be0-4541-a5ab-490997cca545" RegularExpression="Tesleen, the Forgiven readies Fevered Flagellation." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions />
                             <Condition Enabled="false" Grouping="Or" />
                           </Trigger>
-                          <Trigger Enabled="true" Source="Log" Name="Exorcise" Id="c36bfa14-97e1-4905-878c-ab6c1b1b3a25" RegularExpression="Tesleen, the Forgiven readies Exorcise." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                          <Trigger Enabled="true" Source="Log" Name="Exorcise" Id="6e25fd20-3d63-4ded-822e-d111fcb06b80" RegularExpression="Tesleen, the Forgiven readies Exorcise." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions>
                               <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="Stack" UseTTSVolumeExpression="100" UseTTSRateExpression="2" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys">
                                 <Condition Enabled="false" Grouping="Or" />
@@ -115,7 +115,7 @@
                       <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="e69a8e6b-1e1c-4285-88c0-492b92207619" Name="1. Forgiven Dissonance" Enabled="true">
                         <Folders />
                         <Triggers>
-                          <Trigger Enabled="true" Source="Log" Name="The Path of Light" Id="f5135cb9-f256-49c5-94fc-f07de75e5b4b" RegularExpression="The forgiven dissonance readies The Path of Light." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                          <Trigger Enabled="true" Source="Log" Name="The Path of Light" Id="8d4f0a23-7ab8-4ebb-b831-78c65e3cca6f" RegularExpression="The forgiven dissonance readies The Path of Light." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions>
                               <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="AOE" UseTTSVolumeExpression="100" UseTTSRateExpression="2" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys">
                                 <Condition Enabled="false" Grouping="Or" />
@@ -123,27 +123,27 @@
                             </Actions>
                             <Condition Enabled="false" Grouping="Or" />
                           </Trigger>
-                          <Trigger Enabled="false" Source="Log" Name="Brazen Bull (WIP)" Id="83f6f31d-07cd-42a7-9379-17a9945bbe03" RegularExpression="The forgiven dissonance readies Brazen Bull." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                          <Trigger Enabled="false" Source="Log" Name="Brazen Bull (WIP)" Id="b298983b-e76f-4948-b997-398a195a775d" RegularExpression="The forgiven dissonance readies Brazen Bull." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions />
                             <Condition Enabled="false" Grouping="Or" />
                           </Trigger>
-                          <Trigger Enabled="false" Source="Log" Name="Gibbet Cage (WIP)" Id="c445e23e-8db9-4b68-b51b-21d68e4800c2" RegularExpression="The forgiven dissonance readies Gibbet Cage." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                          <Trigger Enabled="false" Source="Log" Name="Gibbet Cage (WIP)" Id="10f9e964-fcb9-40cf-a5fc-931e2ecb9598" RegularExpression="The forgiven dissonance readies Gibbet Cage." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions />
                             <Condition Enabled="false" Grouping="Or" />
                           </Trigger>
-                          <Trigger Enabled="false" Source="Log" Name="Thumbscrew (WIP)" Id="221c5232-0eb1-4167-bd54-52612e6ac8a5" RegularExpression="The forgiven dissonance readies Thumbscrew." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                          <Trigger Enabled="false" Source="Log" Name="Thumbscrew (WIP)" Id="e814ee4b-c834-468c-b568-7566c46a06ab" RegularExpression="The forgiven dissonance readies Thumbscrew." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions />
                             <Condition Enabled="false" Grouping="Or" />
                           </Trigger>
-                          <Trigger Enabled="false" Source="Log" Name="Wooden Horse (WIP)" Id="a09fd2b7-21f3-44c1-90f1-d9a3550d799a" RegularExpression="The forgiven dissonance readies Wooden Horse." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                          <Trigger Enabled="false" Source="Log" Name="Wooden Horse (WIP)" Id="cad49c69-4d1c-45f2-9a91-ad399c51c607" RegularExpression="The forgiven dissonance readies Wooden Horse." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions />
                             <Condition Enabled="false" Grouping="Or" />
                           </Trigger>
-                          <Trigger Enabled="false" Source="Log" Name="Light Shot (WIP)" Id="cf2a0a79-5e7c-4506-b5ba-04bd30626130" RegularExpression="The forgiven dissonance readies Light Shot." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                          <Trigger Enabled="false" Source="Log" Name="Light Shot (WIP)" Id="9ace4fef-fc28-448f-ad1a-9e68882d2018" RegularExpression="The forgiven dissonance readies Light Shot." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions />
                             <Condition Enabled="false" Grouping="Or" />
                           </Trigger>
-                          <Trigger Enabled="true" Source="Log" Name="Pillory" Id="08b306ea-b194-4f03-a10a-4e7cf2e5d270" RegularExpression="The forgiven dissonance readies Pillory." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                          <Trigger Enabled="true" Source="Log" Name="Pillory" Id="64010a4a-fba6-4f4c-93b6-be5da52fa5cc" RegularExpression="The forgiven dissonance readies Pillory." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions>
                               <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="Buster" UseTTSVolumeExpression="100" UseTTSRateExpression="2" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys">
                                 <Condition Enabled="false" Grouping="Or" />
@@ -169,7 +169,7 @@
                       <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="2171077f-f06b-440d-8a35-beddbd39d3f5" Name="3. Aenc Thon, Lord of the Lengthsome Gait" Enabled="true">
                         <Folders />
                         <Triggers>
-                          <Trigger Enabled="true" Source="Log" Name="Toad Choir" Id="be0b79c8-c4bc-4a05-9bb3-3590bd1b8dc7" RegularExpression="Aenc Thon, Lord of the Lengthsome Gait readies Toad Choir." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                          <Trigger Enabled="true" Source="Log" Name="Toad Choir" Id="0146684f-50cf-474c-948b-c1f487c6d74b" RegularExpression="Aenc Thon, Lord of the Lengthsome Gait readies Toad Choir." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions>
                               <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="Move Behind" UseTTSVolumeExpression="100" UseTTSRateExpression="2" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys">
                                 <Condition Enabled="false" Grouping="Or" />
@@ -177,7 +177,7 @@
                             </Actions>
                             <Condition Enabled="false" Grouping="Or" />
                           </Trigger>
-                          <Trigger Enabled="true" Source="Log" Name="Crippling Blow" Id="a53c8ce5-cf0f-4389-9cf0-35431e6d6317" RegularExpression="Aenc Thon, Lord of the Lengthsome Gait readies Crippling Blow." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                          <Trigger Enabled="true" Source="Log" Name="Crippling Blow" Id="f27567a6-ec60-4de6-9ed8-b48523836d43" RegularExpression="Aenc Thon, Lord of the Lengthsome Gait readies Crippling Blow." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions>
                               <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="Buster" UseTTSVolumeExpression="100" UseTTSRateExpression="2" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys">
                                 <Condition Enabled="false" Grouping="Or" />
@@ -185,7 +185,7 @@
                             </Actions>
                             <Condition Enabled="false" Grouping="Or" />
                           </Trigger>
-                          <Trigger Enabled="true" Source="Log" Name="Virtuosic Capriccio" Id="74a584ea-8676-4a52-9577-47dcb67cdae2" RegularExpression="Aenc Thon, Lord of the Lengthsome Gait readies Virtuosic Capriccio." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                          <Trigger Enabled="true" Source="Log" Name="Virtuosic Capriccio" Id="660be0f9-1e4c-4d3f-b135-a433182b2211" RegularExpression="Aenc Thon, Lord of the Lengthsome Gait readies Virtuosic Capriccio." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions>
                               <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="AOE" UseTTSVolumeExpression="100" UseTTSRateExpression="2" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys">
                                 <Condition Enabled="false" Grouping="Or" />
@@ -193,7 +193,7 @@
                             </Actions>
                             <Condition Enabled="false" Grouping="Or" />
                           </Trigger>
-                          <Trigger Enabled="true" Source="Log" Name="Imp Choir" Id="c3c237ae-8b86-4aef-bbc5-6940f77790da" RegularExpression="Aenc Thon, Lord of the Lengthsome Gait readies Imp Choir." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                          <Trigger Enabled="true" Source="Log" Name="Imp Choir" Id="7de040e6-3f53-4a6d-8546-6f6892680574" RegularExpression="Aenc Thon, Lord of the Lengthsome Gait readies Imp Choir." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions>
                               <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="Look Away" UseTTSVolumeExpression="100" UseTTSRateExpression="2" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys">
                                 <Condition Enabled="false" Grouping="Or" />
@@ -201,11 +201,11 @@
                             </Actions>
                             <Condition Enabled="false" Grouping="Or" />
                           </Trigger>
-                          <Trigger Enabled="false" Source="Log" Name="Corrosive Bile (WIP)" Id="4b603ad2-254a-480e-9cf3-b94218d80203" RegularExpression="The shade of fear readies Corrosive Bile." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                          <Trigger Enabled="false" Source="Log" Name="Corrosive Bile (WIP)" Id="1f9cceda-0ab9-4536-8b8c-21eb2d0830d9" RegularExpression="The shade of fear readies Corrosive Bile." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions />
                             <Condition Enabled="false" Grouping="Or" />
                           </Trigger>
-                          <Trigger Enabled="true" Source="Log" Name="Flailing Tentacles" Id="0dad0429-b113-46fc-98f5-6af88dd8f925" RegularExpression="The shade of fear readies Flailing Tentacles." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                          <Trigger Enabled="true" Source="Log" Name="Flailing Tentacles" Id="6f78907a-ea84-4646-8548-28696a9cfaf3" RegularExpression="The shade of fear readies Flailing Tentacles." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions>
                               <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundFileExpression="Avoid Tentacles" PlaySoundVolumeExpression="100" UseTTSTextExpression="Avoid Tentacles" UseTTSVolumeExpression="100" UseTTSRateExpression="2" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys">
                                 <Condition Enabled="false" Grouping="Or" />
@@ -223,7 +223,7 @@
                       <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="7c8b3449-b820-42fb-8097-687c6d5e25b0" Name="1. Lozatl" Enabled="true">
                         <Folders />
                         <Triggers>
-                          <Trigger Enabled="true" Source="Log" Name="Stonefist" Id="49db4d2c-6792-4f81-b890-8eaca3379873" RegularExpression="Lozatl readies Stonefist." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                          <Trigger Enabled="true" Source="Log" Name="Stonefist" Id="27f5eeb3-1bb3-4b46-b669-7aba28f2f880" RegularExpression="Lozatl readies Stonefist." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions>
                               <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="Buster" UseTTSVolumeExpression="100" UseTTSRateExpression="2" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys">
                                 <Condition Enabled="false" Grouping="Or" />
@@ -231,15 +231,15 @@
                             </Actions>
                             <Condition Enabled="false" Grouping="Or" />
                           </Trigger>
-                          <Trigger Enabled="false" Source="Log" Name="Lozatl's Scorn (WIP)" Id="4fde969f-771a-4d64-abda-90c39886ffc7" RegularExpression="Lozatl readies Lozatl's Scorn." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                          <Trigger Enabled="false" Source="Log" Name="Lozatl's Scorn (WIP)" Id="913e21a9-1cd8-4508-bdb5-fb9573d59f24" RegularExpression="Lozatl readies Lozatl's Scorn." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions />
                             <Condition Enabled="false" Grouping="Or" />
                           </Trigger>
-                          <Trigger Enabled="false" Source="Log" Name="Sun Toss (WIP)" Id="b537bfda-c415-49ca-915a-17eebdaf2ea8" RegularExpression="Lozatl readies Sun Toss." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                          <Trigger Enabled="false" Source="Log" Name="Sun Toss (WIP)" Id="a44f37e9-41d1-4a93-869a-4ddc57ae8691" RegularExpression="Lozatl readies Sun Toss." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions />
                             <Condition Enabled="false" Grouping="Or" />
                           </Trigger>
-                          <Trigger Enabled="false" Source="Log" Name="Heat Up (WIP)" Id="ee50b346-8c81-44c1-ba72-88b48a62b575" RegularExpression="Lozatl readies Heat Up." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                          <Trigger Enabled="false" Source="Log" Name="Heat Up (WIP)" Id="137bbd44-8f03-4353-8e10-2572e8cfc368" RegularExpression="Lozatl readies Heat Up." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions />
                             <Condition Enabled="false" Grouping="Or" />
                           </Trigger>
@@ -248,7 +248,7 @@
                       <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="d7f6ce71-8dd9-4382-b50e-ae9c196c0fe1" Name="2. Batsquatch" Enabled="true">
                         <Folders />
                         <Triggers>
-                          <Trigger Enabled="false" Source="Log" Name="Ripper Fang (WIP)" Id="28030b0f-3596-4bbb-867d-7e91180d47f3" RegularExpression="Batsquatch readies Ripper Fang." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                          <Trigger Enabled="false" Source="Log" Name="Ripper Fang (WIP)" Id="98c59211-97aa-4063-91f1-68774fcb4910" RegularExpression="Batsquatch readies Ripper Fang." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions>
                               <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="Buster" UseTTSVolumeExpression="100" UseTTSRateExpression="2" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys">
                                 <Condition Enabled="false" Grouping="Or" />
@@ -256,7 +256,7 @@
                             </Actions>
                             <Condition Enabled="false" Grouping="Or" />
                           </Trigger>
-                          <Trigger Enabled="false" Source="Log" Name="Soundwave (WIP)" Id="368eeeca-dda3-4984-ba34-8356aa8b5de3" RegularExpression="Batsquatch readies Soundwave." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                          <Trigger Enabled="false" Source="Log" Name="Soundwave (WIP)" Id="8a1712dc-fb71-438d-ac72-636e8c1ab3f8" RegularExpression="Batsquatch readies Soundwave." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions>
                               <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="AOE" UseTTSVolumeExpression="100" UseTTSRateExpression="2" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys">
                                 <Condition Enabled="false" Grouping="Or" />
@@ -264,7 +264,7 @@
                             </Actions>
                             <Condition Enabled="true" Grouping="Or" />
                           </Trigger>
-                          <Trigger Enabled="false" Source="Log" Name="Subsonics (WIP)" Id="d02bdeeb-8713-4f33-8a3e-09aaca7164b8" RegularExpression="Batsquatch readies Subsonics." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                          <Trigger Enabled="false" Source="Log" Name="Subsonics (WIP)" Id="0758d90e-ac13-459b-b603-71a3087bfc06" RegularExpression="Batsquatch readies Subsonics." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions />
                             <Condition Enabled="false" Grouping="Or" />
                           </Trigger>
@@ -273,7 +273,7 @@
                       <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="1b01338a-a043-4745-9da8-e3b58a748d8b" Name="3. Eros" Enabled="true">
                         <Folders />
                         <Triggers>
-                          <Trigger Enabled="true" Source="Log" Name="Rend" Id="6ea44cba-77fe-4be7-9b76-07be670dedcb" RegularExpression="Eros readies Rend." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                          <Trigger Enabled="true" Source="Log" Name="Rend" Id="8bb09cf6-a4d1-486a-bcbb-76381a3d57c7" RegularExpression="Eros readies Rend." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions>
                               <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="Buster" UseTTSVolumeExpression="100" UseTTSRateExpression="2" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys">
                                 <Condition Enabled="false" Grouping="Or" />
@@ -281,7 +281,7 @@
                             </Actions>
                             <Condition Enabled="false" Grouping="Or" />
                           </Trigger>
-                          <Trigger Enabled="true" Source="Log" Name="Glossolaia" Id="76b06d82-8167-4efe-ade0-331987004c9c" RegularExpression="Eros readies Glossolalia." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                          <Trigger Enabled="true" Source="Log" Name="Glossolaia" Id="57315624-b5f8-4f9d-b04e-c1c15c92a420" RegularExpression="Eros readies Glossolalia." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions>
                               <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="AOE" UseTTSVolumeExpression="100" UseTTSRateExpression="2" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys">
                                 <Condition Enabled="false" Grouping="Or" />
@@ -289,11 +289,11 @@
                             </Actions>
                             <Condition Enabled="false" Grouping="Or" />
                           </Trigger>
-                          <Trigger Enabled="false" Source="Log" Name="Inhale (WIP)" Id="ec66574d-e8dc-41d7-a9d9-cac691ff07ea" RegularExpression="Eros readies Inhale." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                          <Trigger Enabled="false" Source="Log" Name="Inhale (WIP)" Id="543eacbc-ad75-4543-b3c7-4fc7f2ed711e" RegularExpression="Eros readies Inhale." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions />
                             <Condition Enabled="false" Grouping="Or" />
                           </Trigger>
-                          <Trigger Enabled="true" Source="Log" Name="Heaving Breath" Id="5155afa3-6a89-4e01-88e3-bc9ff3efbf58" RegularExpression="Eros readies Heaving Breath." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                          <Trigger Enabled="true" Source="Log" Name="Heaving Breath" Id="9fca691e-aab5-4586-ae30-ceba54f1c3b3" RegularExpression="Eros readies Heaving Breath." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions>
                               <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="Avoid Poison" UseTTSVolumeExpression="100" UseTTSRateExpression="0" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys">
                                 <Condition Enabled="false" Grouping="Or" />
@@ -301,7 +301,7 @@
                             </Actions>
                             <Condition Enabled="false" Grouping="Or" />
                           </Trigger>
-                          <Trigger Enabled="true" Source="Log" Name="Confession of Fate" Id="140a842f-f2e1-460d-9350-f2196bc5f705" RegularExpression="Eros readies Confession of Faith." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                          <Trigger Enabled="true" Source="Log" Name="Confession of Fate" Id="d775ac28-e389-4356-bca7-ea4f781f9ab2" RegularExpression="Eros readies Confession of Faith." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions>
                               <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="Stack" UseTTSVolumeExpression="100" UseTTSRateExpression="2" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys">
                                 <Condition Enabled="false" Grouping="Or" />
@@ -309,11 +309,11 @@
                             </Actions>
                             <Condition Enabled="false" Grouping="Or" />
                           </Trigger>
-                          <Trigger Enabled="false" Source="Log" Name="Hound out of Heaven (WIP)" Id="034518c7-3f3b-4413-9e70-6b3adec37b6f" RegularExpression="Eros readies Hound out of Heaven." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                          <Trigger Enabled="false" Source="Log" Name="Hound out of Heaven (WIP)" Id="f04132bc-73e0-4e5e-a4db-d34dbcff9804" RegularExpression="Eros readies Hound out of Heaven." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions />
                             <Condition Enabled="false" Grouping="Or" />
                           </Trigger>
-                          <Trigger Enabled="false" Source="Log" Name="Viper Poison (WIP)" Id="b7878e8c-7736-46fd-aea4-9f927271fd9a" RegularExpression="Eros readies Viper Poison." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                          <Trigger Enabled="false" Source="Log" Name="Viper Poison (WIP)" Id="d13c9aa1-1379-4149-bf52-323ba1df23a8" RegularExpression="Eros readies Viper Poison." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions />
                             <Condition Enabled="false" Grouping="Or" />
                           </Trigger>
@@ -335,7 +335,7 @@
                       <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="0a9f68e3-0ee7-4a68-bca2-fdfc60e5668e" Name="3. Storge" Enabled="true">
                         <Folders />
                         <Triggers>
-                          <Trigger Enabled="true" Source="Log" Name="Intestinal Crank" Id="36fe47bb-2513-44f9-a807-8a1ee2646287" RegularExpression="Storge begins casting Intestinal Crank." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                          <Trigger Enabled="true" Source="Log" Name="Intestinal Crank" Id="c9995725-3f7c-4837-8668-e8f6fd01ddd4" RegularExpression="Storge begins casting Intestinal Crank." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions>
                               <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="AOE" UseTTSVolumeExpression="100" UseTTSRateExpression="2" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys">
                                 <Condition Enabled="false" Grouping="Or" />
@@ -343,7 +343,7 @@
                             </Actions>
                             <Condition Enabled="false" Grouping="Or" />
                           </Trigger>
-                          <Trigger Enabled="true" Source="Log" Name="Heretic's Fork" Id="5dc6e3bf-8c57-4b51-9619-c04b0a143ca3" RegularExpression="Storge begins casting Heretic's Fork." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                          <Trigger Enabled="true" Source="Log" Name="Heretic's Fork" Id="ae3dfcec-72cf-41b5-856e-b4290e5619b1" RegularExpression="Storge begins casting Heretic's Fork." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions>
                               <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="Avoid Cross" UseTTSVolumeExpression="100" UseTTSRateExpression="2" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys">
                                 <Condition Enabled="false" Grouping="Or" />
@@ -351,7 +351,7 @@
                             </Actions>
                             <Condition Enabled="false" Grouping="Or" />
                           </Trigger>
-                          <Trigger Enabled="true" Source="Log" Name="Breaking Wheel" Id="01aa5100-bc6d-4ba1-8da9-40b227fc9707" RegularExpression="Storge begins casting Breaking Wheel." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                          <Trigger Enabled="true" Source="Log" Name="Breaking Wheel" Id="0363347c-2794-44b6-9807-e31acff5ec08" RegularExpression="Storge begins casting Breaking Wheel." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions>
                               <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="Get Under" UseTTSVolumeExpression="100" UseTTSRateExpression="0" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys">
                                 <Condition Enabled="false" Grouping="Or" />
@@ -359,11 +359,11 @@
                             </Actions>
                             <Condition Enabled="false" Grouping="Or" />
                           </Trigger>
-                          <Trigger Enabled="false" Source="Log" Name="Crystal Nail (WIP)" Id="1ca12861-6705-437e-be20-b46c037b8368" RegularExpression="Storge begins casting Crystal Nail." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                          <Trigger Enabled="false" Source="Log" Name="Crystal Nail (WIP)" Id="0e2f8d53-cbe8-4fbd-9496-0b11f6f1f4b3" RegularExpression="Storge begins casting Crystal Nail." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions />
                             <Condition Enabled="false" Grouping="Or" />
                           </Trigger>
-                          <Trigger Enabled="false" Source="Log" Name="Censure (WIP)" Id="0c29ffe3-ffda-4dd4-958b-59c1936a68f1" RegularExpression="Storge begins casting Censure." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                          <Trigger Enabled="false" Source="Log" Name="Censure (WIP)" Id="08c8b4c8-61c0-4221-85e9-3adde56bac6b" RegularExpression="Storge begins casting Censure." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions />
                             <Condition Enabled="false" Grouping="Or" />
                           </Trigger>
@@ -420,7 +420,7 @@
                       <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="60d753cd-df64-4c97-b9ac-eb7530259dff" Name="2. Ruby Princess" Enabled="true">
                         <Folders />
                         <Triggers>
-                          <Trigger Enabled="true" Source="Log" Name="Seduce" Id="0c29b5a7-dc64-4501-8d73-01720cbb747d" RegularExpression="The Ruby Princess readies Seduce." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                          <Trigger Enabled="true" Source="Log" Name="Seduce" Id="44d610b9-7206-4653-9615-7b3bd93d773b" RegularExpression="The Ruby Princess readies Seduce." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions>
                               <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="Run to Chest" UseTTSVolumeExpression="100" UseTTSRateExpression="0" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys" />
                             </Actions>
@@ -430,7 +430,7 @@
                       <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="dc8ec01b-f892-4fb1-a90f-02236da0dd7e" Name="3. Shisui Yohi" Enabled="true">
                         <Folders />
                         <Triggers>
-                          <Trigger Enabled="true" Source="Log" Name="Mad Stare" Id="9c6de112-c6e7-44e7-9d57-ed33ef4aaf0a" RegularExpression="Shisui Yohi readies Mad Stare." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                          <Trigger Enabled="true" Source="Log" Name="Mad Stare" Id="0b8d31b0-ca59-4f6e-bcb0-ec6be440e50d" RegularExpression="Shisui Yohi readies Mad Stare." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions>
                               <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="Look Away" UseTTSVolumeExpression="100" UseTTSRateExpression="0" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys" />
                             </Actions>
@@ -453,7 +453,7 @@
                       <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="b08d201f-35a8-42c0-ac4d-3fd193152b99" Name="3. Yol" Enabled="true">
                         <Folders />
                         <Triggers>
-                          <Trigger Enabled="true" Source="Log" Name="Eye of the Fierce" Id="f18f2a76-4f35-46fc-8f7c-ed3641314eb3" RegularExpression="The yol readies Eye of the Fierce." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                          <Trigger Enabled="true" Source="Log" Name="Eye of the Fierce" Id="d72f598f-7106-40dd-8796-b79166b3a8e1" RegularExpression="The yol readies Eye of the Fierce." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions>
                               <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="Look Away" UseTTSVolumeExpression="100" UseTTSRateExpression="0" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys" />
                             </Actions>
@@ -789,11 +789,11 @@
                       <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="0197f57b-fb3b-47f6-b09b-6d4438d74d39" Name="3. Denn the Orcatoothed" Enabled="true">
                         <Folders />
                         <Triggers>
-                          <Trigger Enabled="false" Source="Log" Name="The Sultana's Lap will be sealed off in 15 seconds! (WIP)" Id="010edad9-dcee-400a-829c-b816fb6ebd6f" RegularExpression="The Sultana's Lap will be sealed off in 15 seconds!" DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                          <Trigger Enabled="false" Source="Log" Name="The Sultana's Lap will be sealed off in 15 seconds! (WIP)" Id="5460f0aa-3652-4d6f-b077-c709bc31dbbb" RegularExpression="The Sultana's Lap will be sealed off in 15 seconds!" DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions />
                             <Condition Enabled="false" Grouping="Or" />
                           </Trigger>
-                          <Trigger Enabled="false" Source="Log" Name="Hydroball (WIP)" Id="364cd2b5-727f-45e8-b302-4635cfd846cd" RegularExpression="Denn the Orcatoothed readies Hydroball." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                          <Trigger Enabled="false" Source="Log" Name="Hydroball (WIP)" Id="9dd73ec0-6539-4238-b014-44df6d59acc0" RegularExpression="Denn the Orcatoothed readies Hydroball." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions />
                             <Condition Enabled="false" Grouping="Or" />
                           </Trigger>
@@ -1455,7 +1455,7 @@
                       <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="5703404b-13f7-46c5-b8f0-073b899e6065" Name="1. Otengu" Enabled="true">
                         <Folders />
                         <Triggers>
-                          <Trigger Enabled="true" Source="Log" Name="Wile of the Tengu" Id="51f38d19-81af-4781-90f7-4922c038ffa3" RegularExpression="Otengu casts Wile of the Tengu." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                          <Trigger Enabled="true" Source="Log" Name="Wile of the Tengu" Id="c7ba6a54-3cab-4172-a031-f97f5d2c28db" RegularExpression="Otengu casts Wile of the Tengu." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                             <Actions>
                               <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSTextExpression="Look Away" UseTTSVolumeExpression="100" UseTTSRateExpression="0" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys" />
                             </Actions>
@@ -1946,7 +1946,80 @@
                   </Folder>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="9c0c71d2-f0d3-41b9-8b4c-aa4af478e863" Name="Lv.80 The Dying Gasp" Enabled="true">
                     <Folders />
-                    <Triggers />
+                    <Triggers>
+                      <Trigger Enabled="false" Source="Log" Name="Ravenous Assault (WIP)" Id="58419d4d-a4f3-4d83-84a8-fc8af7a04e01" RegularExpression="Hades readies Ravenous Assault." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                        <Actions />
+                        <Condition Enabled="false" Grouping="Or" />
+                      </Trigger>
+                      <Trigger Enabled="false" Source="Log" Name="Bad Faith (WIP)" Id="1dc39d09-3553-4425-84cf-d8670590a950" RegularExpression="Hades readies Bad Faith." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                        <Actions />
+                        <Condition Enabled="false" Grouping="Or" />
+                      </Trigger>
+                      <Trigger Enabled="false" Source="Log" Name="Double (WIP)" Id="f22a0274-c46e-4673-850f-22523d54826e" RegularExpression="Hades readies Double." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                        <Actions />
+                        <Condition Enabled="false" Grouping="Or" />
+                      </Trigger>
+                      <Trigger Enabled="false" Source="Log" Name="Dark Eruption (WIP)" Id="79734c08-42a7-4f43-abe0-432fdc864839" RegularExpression="Hades readies Dark Eruption." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                        <Actions />
+                        <Condition Enabled="false" Grouping="Or" />
+                      </Trigger>
+                      <Trigger Enabled="false" Source="Log" Name="Broken Faith (WIP)" Id="cf062167-beb6-4b59-a26e-291707b78e99" RegularExpression="Hades readies Broken Faith." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                        <Actions />
+                        <Condition Enabled="false" Grouping="Or" />
+                      </Trigger>
+                      <Trigger Enabled="false" Source="Log" Name="Shadow Spread (WIP)" Id="8fe44393-6270-49b9-ac24-b8e94d593206" RegularExpression="Hades readies Shadow Spread." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                        <Actions />
+                        <Condition Enabled="false" Grouping="Or" />
+                      </Trigger>
+                      <Trigger Enabled="false" Source="Log" Name="Ancient Dark IV (WIP)" Id="12ce6773-1f8f-43e6-beab-c343b41c85c3" RegularExpression="Hades readies Ancient Dark IV." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                        <Actions />
+                        <Condition Enabled="false" Grouping="Or" />
+                      </Trigger>
+                      <Trigger Enabled="false" Source="Log" Name="Titanomachy (WIP)" Id="3e81b82c-1f46-4643-b765-86ed075ee564" RegularExpression="Hades readies Titanomachy." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                        <Actions />
+                        <Condition Enabled="false" Grouping="Or" />
+                      </Trigger>
+                      <Trigger Enabled="false" Source="Log" Name="Shadow Stream (WIP)" Id="be226ecf-02c9-4115-a1c8-17e10d60da67" RegularExpression="Hades readies Shadow Stream." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                        <Actions />
+                        <Condition Enabled="false" Grouping="Or" />
+                      </Trigger>
+                      <Trigger Enabled="false" Source="Log" Name="Dual Strike (WIP)" Id="efcf9d57-886f-4a55-a8cc-0c191677c0b8" RegularExpression="Hades readies Dual Strike." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                        <Actions />
+                        <Condition Enabled="false" Grouping="Or" />
+                      </Trigger>
+                      <Trigger Enabled="false" Source="Log" Name="Echo of the Lost (WIP)" Id="2c5f28cf-f372-4fd2-8bbf-65e79c1740a7" RegularExpression="Hades readies Echo of the Lost." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                        <Actions />
+                        <Condition Enabled="false" Grouping="Or" />
+                      </Trigger>
+                      <Trigger Enabled="false" Source="Log" Name="Polydegmon's Purgation (WIP)" Id="67a6a45a-63c9-4224-8242-d3fcca45798a" RegularExpression="Hades readies Polydegmon's Purgation." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                        <Actions />
+                        <Condition Enabled="false" Grouping="Or" />
+                      </Trigger>
+                      <Trigger Enabled="false" Source="Log" Name="Hellborn Yawp (WIP)" Id="f197839c-d02b-410d-9339-0ab73029978a" RegularExpression="Hades readies Hellborn Yawp." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                        <Actions />
+                        <Condition Enabled="false" Grouping="Or" />
+                      </Trigger>
+                      <Trigger Enabled="false" Source="Log" Name="Captivity (WIP)" Id="cd770848-003b-4158-8c21-e07cb4f06fe2" RegularExpression="Hades readies Captivity." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                        <Actions />
+                        <Condition Enabled="false" Grouping="Or" />
+                      </Trigger>
+                      <Trigger Enabled="false" Source="Log" Name="Chorus of the Lost (WIP)" Id="9ebcb695-26ae-4e40-b2d7-28e6128d0adc" RegularExpression="Hades readies Chorus of the Lost." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                        <Actions />
+                        <Condition Enabled="false" Grouping="Or" />
+                      </Trigger>
+                      <Trigger Enabled="false" Source="Log" Name="Wail of the Lost (WIP)" Id="f9a8355c-c7be-46c3-8839-8c609d4d3cb4" RegularExpression="Hades readies Wail of the Lost." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                        <Actions />
+                        <Condition Enabled="false" Grouping="Or" />
+                      </Trigger>
+                      <Trigger Enabled="false" Source="Log" Name="The Dark Devours" Id="5fbcb9a9-d4cc-4b4a-8721-c41c2e8c5df9" RegularExpression="Hades readies The Dark Devours." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                        <Actions />
+                        <Condition Enabled="false" Grouping="Or" />
+                      </Trigger>
+                      <Trigger Enabled="false" Source="Log" Name="Black Cauldron (WIP)" Id="cde51e92-de84-4792-917f-8d8621b7a346" RegularExpression="Hades readies Black Cauldron." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                        <Actions />
+                        <Condition Enabled="false" Grouping="Or" />
+                      </Trigger>
+                    </Triggers>
                   </Folder>
                 </Folders>
                 <Triggers />
@@ -2689,27 +2762,22 @@
                       <Trigger Enabled="false" Source="Log" Name="Autumn Wreath (WIP)" Id="a1fee726-91fe-43bc-890f-f8faf74e0a91" RegularExpression="Huracan readies Autumn Wreath." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                         <Actions />
                         <Condition Enabled="false" Grouping="Or" />
-                        <Conditions />
                       </Trigger>
                       <Trigger Enabled="false" Source="Log" Name="Winter Rain (WIP)" Id="53c94c1a-a5bb-42d9-911b-145764cbcb85" RegularExpression="Huracan readies Winter Rain." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                         <Actions />
                         <Condition Enabled="false" Grouping="Or" />
-                        <Conditions />
                       </Trigger>
                       <Trigger Enabled="false" Source="Log" Name="Summer Heat (WIP)" Id="687cfc3d-d0a2-49b1-99d2-bf187dad3226" RegularExpression="Huracan readies Summer Heat." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                         <Actions />
                         <Condition Enabled="false" Grouping="Or" />
-                        <Conditions />
                       </Trigger>
                       <Trigger Enabled="false" Source="Log" Name="Spring Breeze (WIP)" Id="c3128e57-600a-4f4a-ac3e-506105121b7f" RegularExpression="Huracan readies Spring Breeze." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                         <Actions />
                         <Condition Enabled="false" Grouping="Or" />
-                        <Conditions />
                       </Trigger>
                       <Trigger Enabled="false" Source="Log" Name="Dawn's Edge (WIP)" Id="1517d83d-22c1-4fdd-a35a-a048385494ba" RegularExpression="Huracan readies Dawn's Edge." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
                         <Actions />
                         <Condition Enabled="false" Grouping="Or" />
-                        <Conditions />
                       </Trigger>
                     </Triggers>
                   </Folder>
@@ -3089,7 +3157,20 @@
                 <Folders>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="163736b9-7509-4949-a53e-1069b4cc8f47" Name="S - Wulgaru" Enabled="true">
                     <Folders />
-                    <Triggers />
+                    <Triggers>
+                      <Trigger Enabled="false" Source="Log" Name="Rise and Fall (WIP)" Id="4382377b-ef29-4294-8558-757384d16174" RegularExpression="Wulgaru readies Rise and Fall." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                        <Actions />
+                        <Condition Enabled="false" Grouping="Or" />
+                      </Trigger>
+                      <Trigger Enabled="false" Source="Log" Name="Backhand Blow (WIP)" Id="7803c9d9-5a08-4b92-b730-7ae6a12f6996" RegularExpression="Wulgaru readies Backhand Blow." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                        <Actions />
+                        <Condition Enabled="false" Grouping="Or" />
+                      </Trigger>
+                      <Trigger Enabled="false" Source="Log" Name="Arboreal Storm (WIP)" Id="ab6bf86d-0cf6-4552-b2c0-f46bf65c4395" RegularExpression="Wulgaru readies Arboreal Storm." DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                        <Actions />
+                        <Condition Enabled="false" Grouping="Or" />
+                      </Trigger>
+                    </Triggers>
                   </Folder>
                   <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="ab4092b0-1343-4569-b2e2-812eae6abdeb" Name="A - Melt" Enabled="true">
                     <Folders />
@@ -3221,9 +3302,177 @@
         </Folders>
         <Triggers />
       </Folder>
+      <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="e84d5789-681e-4f31-8092-49a866a336ba" Name="Classes/Jobs" Enabled="true">
+        <Folders>
+          <Folder FFXIVJobFilterEnabled="true" FFXIVJobFilter="4437573664" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="ab5d53c6-5a97-47ba-9f90-9830193307c7" Name="Healer" Enabled="true">
+            <Folders>
+              <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="cee6dd05-c49d-4ef2-b76a-0a4d03cc2047" Name="WHM" Enabled="true">
+                <Folders />
+                <Triggers>
+                  <Trigger Enabled="true" Source="Log" Name="Aero/Aero II" Id="2ae561a9-382a-4970-a641-ea19f80d823d" RegularExpression="1A:.+gains the effect of (?&lt;dot&gt;Aero|Aero II) from (?&lt;player&gt;[A-Za-z'\-]+ [A-Za-z'\-]+) for (?&lt;duration&gt;\d+.\d+?) Seconds" DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                    <Actions>
+                      <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="18000" DebugLevel="Inherit" RefireInterrupt="True" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" PlaySpeechMyself="True" UseTTSTextExpression="${dot}" UseTTSVolumeExpression="100" UseTTSRateExpression="0" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys">
+                        <Condition Enabled="false" Grouping="Or" />
+                      </Action>
+                    </Actions>
+                    <Condition Enabled="true" Grouping="And">
+                      <ConditionSingle Enabled="true" ExpressionL="${player}" ExpressionTypeL="String" ExpressionR="${_ffxivplayer}" ExpressionTypeR="String" ConditionType="StringEqualCase" />
+                    </Condition>
+                  </Trigger>
+                  <Trigger Enabled="true" Source="Log" Name="Assize" Id="00e8ea6a-49cf-4ebc-8b50-7bad88a0b9da" RegularExpression="You use Assize." DebugLevel="Inherit" PrevActions="Interrupt" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                    <Actions>
+                      <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="44000" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" PlaySpeechMyself="True" UseTTSTextExpression="Assize" UseTTSVolumeExpression="100" UseTTSRateExpression="0" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys" />
+                    </Actions>
+                  </Trigger>
+                  <Trigger Enabled="true" Source="Log" Name="Asylum" Id="a235669c-f9ca-4efe-832c-4e9f85276437" RegularExpression="You use Asylum." DebugLevel="Inherit" PrevActions="Interrupt" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                    <Actions>
+                      <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="89000" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" PlaySpeechMyself="True" UseTTSTextExpression="Asylum" UseTTSVolumeExpression="100" UseTTSRateExpression="0" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys" />
+                    </Actions>
+                  </Trigger>
+                  <Trigger Enabled="true" Source="Log" Name="Dia" Id="48e59831-70ee-4362-9105-f5fd398fa308" RegularExpression="1A:.+gains the effect of (?&lt;dot&gt;Dia) from (?&lt;player&gt;[A-Za-z'\-]+ [A-Za-z'\-]+) for (?&lt;duration&gt;\d+.\d+?) Seconds" DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                    <Actions>
+                      <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="30000" DebugLevel="Inherit" RefireInterrupt="True" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" PlaySpeechMyself="True" UseTTSTextExpression="${dot}" UseTTSVolumeExpression="100" UseTTSRateExpression="0" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys">
+                        <Condition Enabled="false" Grouping="Or" />
+                      </Action>
+                    </Actions>
+                    <Condition Enabled="true" Grouping="And">
+                      <ConditionSingle Enabled="true" ExpressionL="${player}" ExpressionTypeL="String" ExpressionR="${_ffxivplayer}" ExpressionTypeR="String" ConditionType="StringEqualCase" />
+                    </Condition>
+                  </Trigger>
+                  <Trigger Enabled="true" Source="Log" Name="Benediction" Id="469121e2-97fb-4d13-b22e-64b81086a44c" RegularExpression="You use Benediction." DebugLevel="Inherit" PrevActions="Interrupt" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                    <Actions>
+                      <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="179000" DebugLevel="Inherit" RefireInterrupt="True" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" PlaySpeechMyself="True" UseTTSTextExpression="Benediction" UseTTSVolumeExpression="100" UseTTSRateExpression="0" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys" />
+                    </Actions>
+                  </Trigger>
+                  <Trigger Enabled="true" Source="Log" Name="Presence of Mind" Id="07d9f2cc-5be1-429e-97a4-6202eba57a6c" RegularExpression="You use Presence of Mind." DebugLevel="Inherit" PrevActions="Interrupt" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                    <Actions>
+                      <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="149000" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" PlaySpeechMyself="True" UseTTSTextExpression="Presence of Mind" UseTTSVolumeExpression="100" UseTTSRateExpression="2" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys" />
+                    </Actions>
+                  </Trigger>
+                  <Trigger Enabled="true" Source="Log" Name="Divine Benison" Id="d4edabb6-4543-4035-bd97-0e6aceeebe66" RegularExpression="You use Divine Benison." DebugLevel="Inherit" PrevActions="Interrupt" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                    <Actions>
+                      <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="29000" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" PlaySpeechMyself="True" UseTTSTextExpression="Divine Benison" UseTTSVolumeExpression="100" UseTTSRateExpression="3" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys" />
+                    </Actions>
+                  </Trigger>
+                  <Trigger Enabled="true" Source="Log" Name="Tetragrammaton" Id="ce7b9a2e-ae11-49b6-bf91-7ce3b05a8db7" RegularExpression="You use Tetragrammaton." DebugLevel="Inherit" PrevActions="Interrupt" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                    <Actions>
+                      <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="59000" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" PlaySpeechMyself="True" UseTTSTextExpression="Tetragrammaton" UseTTSVolumeExpression="100" UseTTSRateExpression="2" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys" />
+                    </Actions>
+                  </Trigger>
+                  <Trigger Enabled="true" Source="Log" Name="Thin Air" Id="3590bb59-36b6-4ed3-840e-691e25ba83da" RegularExpression="You use Thin Air." DebugLevel="Inherit" PrevActions="Interrupt" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+                    <Actions>
+                      <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="UseTTS" ExecutionDelayExpression="119000" DebugLevel="Inherit" RefireInterrupt="True" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" PlaySpeechMyself="True" UseTTSTextExpression="Thin Air" UseTTSVolumeExpression="100" UseTTSRateExpression="0" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys" />
+                    </Actions>
+                  </Trigger>
+                </Triggers>
+              </Folder>
+              <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="9cd97d44-b528-4414-a6c8-04c7f85086d7" Name="SCH" Enabled="true">
+                <Folders />
+                <Triggers />
+              </Folder>
+              <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="403a0b6c-814b-4f3f-8864-cb73945173e5" Name="AST" Enabled="true">
+                <Folders />
+                <Triggers />
+              </Folder>
+            </Folders>
+            <Triggers />
+          </Folder>
+          <Folder FFXIVJobFilterEnabled="true" FFXIVJobFilter="51657048128" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="893f42cd-86e9-4eaa-aede-386db8d6793b" Name="Magical Ranged DPS" Enabled="true">
+            <Folders>
+              <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="d645dbc3-aadd-4184-a1be-1b4b73ce2ddb" Name="BLM" Enabled="true">
+                <Folders />
+                <Triggers />
+              </Folder>
+              <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="c38f2acb-964b-4cbf-9983-70883e8c37c2" Name="RDM" Enabled="true">
+                <Folders />
+                <Triggers />
+              </Folder>
+              <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="e6d8f581-4efa-46fd-a763-be87533a0b14" Name="SMN" Enabled="true">
+                <Folders />
+                <Triggers />
+              </Folder>
+              <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="01c9d427-73a3-404e-8635-d6297ad388ee" Name="BLU" Enabled="true">
+                <Folders />
+                <Triggers />
+              </Folder>
+            </Folders>
+            <Triggers />
+          </Folder>
+          <Folder FFXIVJobFilterEnabled="true" FFXIVJobFilter="9397862410" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="2f232921-c73c-4edb-b6ec-7509ce62ea3f" Name="Melee DPS" Enabled="true">
+            <Folders>
+              <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="64439f82-1121-4593-a7b8-49053d17d378" Name="DRG" Enabled="true">
+                <Folders />
+                <Triggers />
+              </Folder>
+              <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="a1c9abbd-3027-41b8-929f-2366f0dedb9d" Name="MNK" Enabled="true">
+                <Folders />
+                <Triggers />
+              </Folder>
+              <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="409580b4-56a4-4ff7-9281-2c828686a7db" Name="NIN" Enabled="true">
+                <Folders />
+                <Triggers />
+              </Folder>
+              <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="77cc5bad-67ad-44c6-be2f-6488c096158e" Name="SAM" Enabled="true">
+                <Folders />
+                <Triggers />
+              </Folder>
+            </Folders>
+            <Triggers />
+          </Folder>
+          <Folder FFXIVJobFilterEnabled="true" FFXIVJobFilter="138516889616" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="1f35c7cd-2a1f-4365-8f8b-fc04115982a8" Name="Physical Ranged DPS" Enabled="true">
+            <Folders>
+              <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="15c36130-f1c5-4f68-85ab-49bf01e0a62e" Name="BRD" Enabled="true">
+                <Folders />
+                <Triggers />
+              </Folder>
+              <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="257f5765-cdd6-4b09-916c-5f6fa1eed461" Name="DNC" Enabled="true">
+                <Folders />
+                <Triggers />
+              </Folder>
+              <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="d9d9efea-b6bc-4822-b78f-b78e54533359" Name="MCH" Enabled="true">
+                <Folders />
+                <Triggers />
+              </Folder>
+            </Folders>
+            <Triggers />
+          </Folder>
+          <Folder FFXIVJobFilterEnabled="false" FFXIVJobFilter="0" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="9367d462-cf8b-4eb8-95d4-710feb403ded" Name="Tank" Enabled="true">
+            <Folders />
+            <Triggers />
+          </Folder>
+          <Folder FFXIVJobFilterEnabled="true" FFXIVJobFilter="32640" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="dbdc14e9-6018-4371-9576-37c526e9f7f5" Name="Crafting" Enabled="true">
+            <Folders />
+            <Triggers />
+          </Folder>
+          <Folder FFXIVJobFilterEnabled="true" FFXIVJobFilter="229376" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="644a5d27-91f5-4934-8736-c2579882d9d5" Name="Gathering" Enabled="true">
+            <Folders>
+              <Folder FFXIVJobFilterEnabled="true" FFXIVJobFilter="65536" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="fab58c75-d307-4a34-9bb3-6a35c6f38681" Name="BOT" Enabled="true">
+                <Folders />
+                <Triggers />
+              </Folder>
+              <Folder FFXIVJobFilterEnabled="true" FFXIVJobFilter="32768" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="8c902c93-3ebd-4633-b0f5-189ecda2ff8a" Name="MIN" Enabled="true">
+                <Folders />
+                <Triggers />
+              </Folder>
+              <Folder FFXIVJobFilterEnabled="true" FFXIVJobFilter="131072" ZoneFilterEnabled="false" EventFilterEnabled="false" Id="8aecb159-2e3d-4c25-98ef-09f387d4ec87" Name="FSH" Enabled="true">
+                <Folders />
+                <Triggers />
+              </Folder>
+            </Folders>
+            <Triggers />
+          </Folder>
+        </Folders>
+        <Triggers>
+          <Trigger Enabled="true" Source="Log" Name="Cancel Recast Triggers" Id="b9fbf6c0-be7a-47c6-926f-372b1298d320" RegularExpression="You change to *" DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+            <Actions>
+              <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="Trigger" ExecutionDelayExpression="0" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSVolumeExpression="100" UseTTSRateExpression="0" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="CancelAllTrigger" TriggerForce="" TriggerId="b9fbf6c0-be7a-47c6-926f-372b1298d320" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys" />
+            </Actions>
+          </Trigger>
+        </Triggers>
+      </Folder>
     </Folders>
     <Triggers>
-      <Trigger Enabled="true" Source="Log" Name="Wipe Reset" Id="c7704171-5d8b-4c9a-ba17-749a63650499" RegularExpression="21:(.*):40000010" DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
+      <Trigger Enabled="true" Source="Log" Name="Wipe Reset" Id="54492dbf-09d3-4db8-bb34-d85add9c7dea" RegularExpression="21:(.*):40000010" DebugLevel="Inherit" PrevActions="Keep" PrevActionsRefire="Allow" Scheduling="FromFire" PeriodRefire="Allow" RefirePeriodExpression="0">
         <Actions>
           <Action OrderNumber="1" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="EndEncounter" ExecutionDelayExpression="3000" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSVolumeExpression="100" UseTTSRateExpression="0" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="FireTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys" />
           <Action OrderNumber="2" AuraImageMode="Normal" TextAuraAlignment="MiddleCenter" TextAuraFontSize="8.25" TextAuraEffect="None" ActionType="Trigger" ExecutionDelayExpression="" DebugLevel="Inherit" SystemBeepFreqExpression="1000" SystemBeepLengthExpression="100" PlaySoundVolumeExpression="100" UseTTSVolumeExpression="100" UseTTSRateExpression="0" LaunchProcessWindowStyle="Normal" ExecScriptType="CSharp" MessageBoxIconType="None" VariableOp="Unset" ListVariableOp="Unset" ListVariableExpressionType="String" TriggerOp="CancelAllTrigger" TriggerForce="" TriggerId="00000000-0000-0000-0000-000000000000" FolderOp="EnableFolder" FolderId="00000000-0000-0000-0000-000000000000" AuraOp="ActivateAura" TextAuraOp="ActivateAura" TextAuraFontName="Microsoft Sans Serif" TextAuraForeground="Black" TextAuraBackground="Transparent" TextAuraOutline="White" OBSControlType="StartStreaming" KeypressType="SendKeys" />
